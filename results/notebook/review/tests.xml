@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="(empty)"
+	tests="16"
+	failures="0"
+	disabled="0"
+	skipped="0"
+	hostname=""
+	time="37"
+	timestamp="2026-11-26T18:37:05"
+	>
+	<testcase name="core" classname="core" time="0.047689" status="run">
+		<properties/>
+		<system-out>Core checks passed
+</system-out>
+	</testcase>
+	<testcase name="cli" classname="cli" time="0.146955" status="run">
+		<properties/>
+		<system-out></system-out>
+	</testcase>
+	<testcase name="studies_edge_ranking" classname="studies_edge_ranking" time="0.0880363" status="run">
+		<properties/>
+		<system-out>22 runs in "/tmp/tmpuwp3b713/edge"
+</system-out>
+	</testcase>
+	<testcase name="studies_path_oracle" classname="studies_path_oracle" time="0.0850553" status="run">
+		<properties/>
+		<system-out>8 runs in "/tmp/tmp85k1o4am/path"
+</system-out>
+	</testcase>
+	<testcase name="studies_nested_networks" classname="studies_nested_networks" time="0.126632" status="run">
+		<properties/>
+		<system-out>32 runs in "/tmp/tmp045d9z9c/nested"
+</system-out>
+	</testcase>
+	<testcase name="studies_wall_budget" classname="studies_wall_budget" time="0.166269" status="run">
+		<properties/>
+		<system-out>4 budget trials in "/tmp/tmp2j0r14sb/budget"
+</system-out>
+	</testcase>
+	<testcase name="riffle" classname="riffle" time="0.112692" status="run">
+		<properties/>
+		<system-out>...
+----------------------------------------------------------------------
+Ran 3 tests in 0.038s
+
+OK
+</system-out>
+	</testcase>
+	<testcase name="bridges" classname="bridges" time="0.133222" status="run">
+		<properties/>
+		<system-out>12 runs in "/tmp/tmp28iqciyv/runs"
+</system-out>
+	</testcase>
+	<testcase name="budget_repetitions" classname="budget_repetitions" time="0.593612" status="run">
+		<properties/>
+		<system-out>48 budget trials in "/tmp/tmp7rjl08oc/all"
+16 budget trials in "/tmp/tmp7rjl08oc/0"
+16 budget trials in "/tmp/tmp7rjl08oc/1"
+16 budget trials in "/tmp/tmp7rjl08oc/2"
+</system-out>
+	</testcase>
+	<testcase name="link_policy_trials" classname="link_policy_trials" time="15.175" status="run">
+		<properties/>
+		<system-out>14 runs in "/tmp/tmp6vhxg1m0/runs"
+Matched 14 trials across 3 graph realizations.
+</system-out>
+	</testcase>
+	<testcase name="power_grid" classname="power_grid" time="29.4159" status="run">
+		<properties/>
+		<system-out>3 runs in "/tmp/tmp10k93e8v/grid"
+</system-out>
+	</testcase>
+	<testcase name="dana_parity" classname="dana_parity" time="0.399376" status="run">
+		<properties/>
+		<system-out>n,full_tv_0.25,full_tv_0.1,full_tv_0.01,position_dhn,position_reversible,measured_C,min_early_tv,max_start_spread,max_curve_error
+10,14,21,42,20,37,0.9195466163359447,0.2986784401,2.220446049250313e-16,4.440892098500626e-16
+20,30,46,92,45,150,0.8937956797844746,0.3334859224085423,3.3306690738754696e-16,1.3322676295501878e-15
+</system-out>
+	</testcase>
+	<testcase name="dhn" classname="dhn" time="0.758869" status="run">
+		<properties/>
+		<system-out></system-out>
+	</testcase>
+	<testcase name="real_networks" classname="real_networks" time="9.18699" status="run">
+		<properties/>
+		<system-out>17 runs in "/tmp/tmph4s62pxu/real"
+</system-out>
+	</testcase>
+	<testcase name="edge_policies" classname="edge_policies" time="0.886603" status="run">
+		<properties/>
+		<system-out>617 runs in "/tmp/tmpi35psm5c/edges"
+</system-out>
+	</testcase>
+	<testcase name="plots" classname="plots" time="13.4887" status="run">
+		<properties/>
+		<system-out>4 runs in "/tmp/tmpb55f7jpk/mixed"
+4 runs in "/tmp/tmpb55f7jpk/zero"
+4 runs in "/tmp/tmpb55f7jpk/matched"
+4 runs in "/tmp/tmpb55f7jpk/unmatched"
+6 summary rows and figures in /tmp/tmpb55f7jpk/mixed
+6 summary rows and figures in /tmp/tmpb55f7jpk/zero
+2 experiments, 12 comparison rows in /tmp/tmpb55f7jpk
+</system-out>
+	</testcase>
+</testsuite>

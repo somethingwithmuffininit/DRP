@@ -1,0 +1,90 @@
+{
+  "epsilons": [
+    0.25,
+    0.1,
+    0.05,
+    0.01
+  ],
+  "studies": [
+    {
+      "name": "1 bridge",
+      "graph": {
+        "family": "barbell",
+        "sizes": [
+          16
+        ],
+        "bridges": 1
+      },
+      "methods": [
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        }
+      ]
+    },
+    {
+      "name": "2 bridges",
+      "graph": {
+        "family": "barbell",
+        "sizes": [
+          16
+        ],
+        "bridges": 2
+      },
+      "methods": [
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        }
+      ]
+    },
+    {
+      "name": "4 bridges",
+      "graph": {
+        "family": "barbell",
+        "sizes": [
+          16
+        ],
+        "bridges": 4
+      },
+      "methods": [
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        }
+      ]
+    },
+    {
+      "name": "8 bridges",
+      "graph": {
+        "family": "barbell",
+        "sizes": [
+          16
+        ],
+        "bridges": 8
+      },
+      "methods": [
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        }
+      ]
+    }
+  ]
+}

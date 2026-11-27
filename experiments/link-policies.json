@@ -1,0 +1,37 @@
+{
+  "reports": ["link-policies"],
+  "epsilons": [0.25],
+  "max_steps": 15000,
+  "stride": 15001,
+  "snapshots": [0],
+  "all_starts_limit": 16,
+  "sample_starts": 16,
+  "studies": [
+    {
+      "name": "Dense random graphs",
+      "graph": {"fixtures": "fixtures/link-policy-graphs.json", "family": "ER"},
+      "methods": ["max_degree"],
+      "policies": [
+        {"policy": "none"}, {"policy": "random"}, {"policy": "min_degree"},
+        {"policy": "fiedler"}, {"policy": "optimal_connectivity"}
+      ]
+    },
+    {
+      "name": "Preferential attachment graphs",
+      "graph": {"fixtures": "fixtures/link-policy-graphs.json", "family": "BA"},
+      "methods": ["max_degree"],
+      "policies": [
+        {"policy": "none"}, {"policy": "random"}, {"policy": "min_degree"},
+        {"policy": "fiedler"}, {"policy": "optimal_connectivity"}
+      ]
+    },
+    {
+      "name": "Binary tree",
+      "graph": {"fixtures": "fixtures/link-policy-graphs.json", "family": "Tree"},
+      "methods": ["max_degree"],
+      "policies": [
+        {"policy": "none"}, {"policy": "random"}, {"policy": "min_degree"}, {"policy": "fiedler"}
+      ]
+    }
+  ]
+}

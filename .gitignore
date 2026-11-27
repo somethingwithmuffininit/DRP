@@ -1,0 +1,17 @@
+/build*/
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+
+*.lock

@@ -1,0 +1,92 @@
+{
+  "max_steps": 3000,
+  "snapshots": [
+    0
+  ],
+  "studies": [
+    {
+      "name": "er",
+      "graph": {
+        "family": "er",
+        "sizes": [
+          50,
+          100
+        ]
+      },
+      "methods": [
+        "max_degree"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "random"
+        },
+        {
+          "policy": "min_degree"
+        },
+        {
+          "policy": "fiedler"
+        }
+      ],
+      "replicates": 4
+    },
+    {
+      "name": "ba",
+      "graph": {
+        "family": "ba",
+        "sizes": [
+          50,
+          100
+        ]
+      },
+      "methods": [
+        "max_degree"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "random"
+        },
+        {
+          "policy": "min_degree"
+        },
+        {
+          "policy": "fiedler"
+        }
+      ],
+      "replicates": 4
+    },
+    {
+      "name": "tree",
+      "graph": {
+        "family": "tree",
+        "sizes": [
+          31,
+          63
+        ]
+      },
+      "methods": [
+        "max_degree"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "random"
+        },
+        {
+          "policy": "min_degree"
+        },
+        {
+          "policy": "fiedler"
+        }
+      ],
+      "replicates": 1
+    }
+  ]
+}

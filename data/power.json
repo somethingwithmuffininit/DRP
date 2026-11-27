@@ -1,0 +1,11 @@
+{
+  "vertices": 4941,
+  "edges": "power.edges",
+  "edge_count": 6594,
+  "sha256": "bd2fc00f6be180993b8162d89dcb2355c22e51a46136b6cef155e101aaeca4b4",
+  "url": "https://public.websites.umich.edu/~mejn/netdata/power.zip",
+  "archive_sha256": "866f2301d113928973f40c8e1ca34be84efa2ad8209cd9d0cf7c16e972167b7d",
+  "citation": "Western States Power Grid\n\nCompiled by Duncan Watts and Steven Strogatz\n\nThe file power.gml contains an undirected unweighted representation of the\ntopology of the Western States Power Grid of the United States, compiled by\nDuncan Watts and Steven Strogatz.  The data are from the web site of\nProf. Duncan Watts at Columbia University,\nhttp://cdg.columbia.edu/cdg/datasets.  Node IDs are the same as those used\nby Prof. Watts.\n\nThese data can be cited as:\n\n  D. J. Watts and S. H. Strogatz, \"Collective dynamics of `small-world'\n  networks\", Nature 393, 440-442 (1998).",
+  "mapping": "Original GML ID = internal ID + 0",
+  "preprocessing": "Simple undirected support, endpoints sorted, all source vertices and edges retained."
+}

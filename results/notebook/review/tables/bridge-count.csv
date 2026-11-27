@@ -1,0 +1,13 @@
+Bridge graph,Weights,Steps
+1 bridge,Maximum degree,28
+1 bridge,Metropolis,28
+1 bridge,Optimized weights,15
+2 bridges,Maximum degree,14
+2 bridges,Metropolis,14
+2 bridges,Optimized weights,7
+4 bridges,Maximum degree,7
+4 bridges,Metropolis,7
+4 bridges,Optimized weights,4
+8 bridges,Maximum degree,3
+8 bridges,Metropolis,3
+8 bridges,Optimized weights,2

@@ -1,0 +1,45 @@
+{
+  "mcmc": {
+    "draws": 20000,
+    "replicates": 32
+  },
+  "studies": [
+    {
+      "name": "Karate club",
+      "graph": {
+        "dataset": "../data/karate.json"
+      },
+      "methods": [
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        }
+      ]
+    },
+    {
+      "name": "Cycle sampler",
+      "graph": {
+        "family": "cycle",
+        "sizes": [
+          32
+        ]
+      },
+      "methods": [
+        "clockwise"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "halves",
+          "candidates": "anchored"
+        }
+      ]
+    }
+  ]
+}

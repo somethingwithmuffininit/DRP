@@ -1,0 +1,13 @@
+{
+  "seed": 42, "wall_budget": {"seconds": [10, 60], "repeats": 5},
+  "studies": [
+    {"name": "Two cliques", "graph": {"family": "barbell", "sizes": [32]},
+     "methods": ["max_degree", "metropolis", "fmmc"],
+     "policies": [{"policy": "none"}, {"policy": "random"}, {"policy": "min_degree"},
+                  {"policy": "fiedler"}, {"policy": "optimal_connectivity"}]},
+    {"name": "Cycle shortcut", "graph": {"family": "cycle", "sizes": [32]},
+     "methods": ["clockwise", "max_degree"], "policies": [{"policy": "none"}, {"policy": "halves"}]},
+    {"name": "Lifted path", "graph": {"family": "path", "sizes": [32]},
+     "methods": ["dhn", "max_degree"], "policies": [{"policy": "none"}]}
+  ]
+}

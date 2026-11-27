@@ -1,0 +1,13 @@
+graph,study,vertices,method,space,epsilon,metric,candidates,fastest_steps,connectivity_best_ties,fastest_ties,shared_best_edges,best_extra_among_connectivity_ties,worst_extra_among_connectivity_ties
+g0,Cycle chords,12,clockwise,full,0.25,steps,54,13,54,6,6,0,11
+g0,Cycle chords,12,clockwise,full,0.25,start_median,54,11.0,54,18,18,0.0,9.0
+g0,Cycle chords,12,clockwise,full,0.1,steps,54,23,54,6,6,0,18
+g0,Cycle chords,12,clockwise,full,0.1,start_median,54,19.5,54,18,18,0.0,19.0
+g1,Two communities,12,max_degree,full,0.25,steps,35,9,25,25,25,0,0
+g1,Two communities,12,max_degree,full,0.25,start_median,35,9.0,25,25,25,0.0,0.0
+g1,Two communities,12,max_degree,full,0.1,steps,35,18,25,25,25,0,0
+g1,Two communities,12,max_degree,full,0.1,start_median,35,18.0,25,25,25,0.0,0.0
+g2,Karate club,34,max_degree,full,0.25,steps,483,32,1,16,1,0,0
+g2,Karate club,34,max_degree,full,0.25,start_median,483,15.0,1,3,0,3.0,3.0
+g2,Karate club,34,max_degree,full,0.1,steps,483,58,1,4,1,0,0
+g2,Karate club,34,max_degree,full,0.1,start_median,483,37.0,1,1,0,2.5,2.5

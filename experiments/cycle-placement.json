@@ -1,0 +1,25 @@
+{
+  "studies": [
+    {
+      "name": "Cycle placement",
+      "graph": {
+        "family": "cycle",
+        "sizes": [
+          32
+        ]
+      },
+      "methods": [
+        "clockwise"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "all",
+          "candidates": "anchored"
+        }
+      ]
+    }
+  ]
+}

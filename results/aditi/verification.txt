@@ -1,0 +1,1 @@
+Verified 180 C++ rows against Aditi's Python on 40 trials.

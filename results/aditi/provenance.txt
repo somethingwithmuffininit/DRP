@@ -1,0 +1,14 @@
+Reference commit: da0a4bdd028b37484113b92a110359d1a78a0575
+Build: CMake Release, Eigen dense eigensolver, four OpenMP threads for walk propagation
+Python reference and audits: OPENBLAS_NUM_THREADS=1
+c++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+cmake version 3.28.3
+3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]
+2.8.8 1.26.4 1.11.4
+Linux x86_64
+412d1f15c95cb4e5388b1c585973cd4e7e239daeb91f22c3592b300514a78add  ../Aditi/link_addition.py
+af01cdc67b9010be58c240381ab72fb72db5eb76f975ea08f98c76e13d986dc5  CMakeLists.txt
+716fcdb81c20a0bb4f73dcb5a50918c10bdcdb5b04cf04f7839e95cef3abb9d6  src/aditi.cpp
+4f4916614c68256406d7376813ee72c3ce3b6b18d7587d33d9afc4ad1396f0fc  scripts/aditi_fixtures.py
+19957fc91b24fb11639b2cd3f6a7b7ab1bb191a0d68357aa5571499eded78c08  scripts/aditi_report.py
+be3e3f0da3558d42b51a81e2ad614c10e67fa8c869faef36d5631bb3b67bc4c1  scripts/reproduce_aditi.sh

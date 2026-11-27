@@ -1,0 +1,1177 @@
+experiment,jobs,study,graph_definition,cycle_parity,method,policy,dhn_c,space,epsilon,scope,sample_count,metric,sizes_used,unavailable_or_nonpositive_sizes,size_count,exponent,log_r_squared,skipped_sizes
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,steps,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,start_median,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,start_p90,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,observed_tv_log_decay,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,vs_unedited,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,vs_max_degree,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,slem,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,transition_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,transition_lambda_min,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,spectral_gap,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,absolute_spectral_gap,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,asymptotic_rate,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,spectral_time,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,delta_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,setup_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,spectrum_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,propagation_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,updates_per_second,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,mcmc_ess_per_second,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.25,all,,mcmc_rmse,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,steps,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,start_median,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,start_p90,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,observed_tv_log_decay,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,vs_unedited,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,vs_max_degree,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,slem,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,transition_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,transition_lambda_min,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,spectral_gap,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,absolute_spectral_gap,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,asymptotic_rate,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,spectral_time,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,delta_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,setup_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,spectrum_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,propagation_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,updates_per_second,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,mcmc_ess_per_second,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.1,all,,mcmc_rmse,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,steps,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,start_median,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,start_p90,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,observed_tv_log_decay,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,vs_unedited,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,vs_max_degree,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,slem,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,transition_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,transition_lambda_min,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,spectral_gap,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,absolute_spectral_gap,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,asymptotic_rate,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,spectral_time,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,delta_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,setup_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,spectrum_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,propagation_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,updates_per_second,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,mcmc_ess_per_second,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.05,all,,mcmc_rmse,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,steps,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,start_median,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,start_p90,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,observed_tv_log_decay,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,vs_unedited,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,vs_max_degree,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,slem,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,transition_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,transition_lambda_min,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,spectral_gap,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,absolute_spectral_gap,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,asymptotic_rate,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,spectral_time,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,delta_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,setup_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,spectrum_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,propagation_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,updates_per_second,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,mcmc_ess_per_second,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,none,,full,0.01,all,,mcmc_rmse,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,steps,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,start_median,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,start_p90,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,observed_tv_log_decay,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,vs_unedited,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,vs_max_degree,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,slem,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,transition_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,transition_lambda_min,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,spectral_gap,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,absolute_spectral_gap,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,asymptotic_rate,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,spectral_time,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,delta_lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,setup_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,spectrum_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,propagation_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,updates_per_second,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,mcmc_ess_per_second,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.25,all,,mcmc_rmse,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,steps,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,start_median,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,start_p90,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,observed_tv_log_decay,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,vs_unedited,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,vs_max_degree,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,slem,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,transition_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,transition_lambda_min,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,spectral_gap,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,absolute_spectral_gap,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,asymptotic_rate,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,spectral_time,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,delta_lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,setup_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,spectrum_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,propagation_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,updates_per_second,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,mcmc_ess_per_second,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.1,all,,mcmc_rmse,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,steps,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,start_median,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,start_p90,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,observed_tv_log_decay,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,vs_unedited,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,vs_max_degree,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,slem,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,transition_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,transition_lambda_min,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,spectral_gap,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,absolute_spectral_gap,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,asymptotic_rate,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,spectral_time,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,delta_lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,setup_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,spectrum_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,propagation_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,updates_per_second,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,mcmc_ess_per_second,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.05,all,,mcmc_rmse,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,steps,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,start_median,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,start_p90,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,observed_tv_log_decay,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,vs_unedited,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,vs_max_degree,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,slem,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,transition_lambda2,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,transition_lambda_min,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,spectral_gap,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,absolute_spectral_gap,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,asymptotic_rate,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,spectral_time,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,delta_lambda2,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,setup_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,spectrum_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,propagation_seconds,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,updates_per_second,15,,1,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,mcmc_ess_per_second,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",odd,clockwise,random,,full,0.01,all,,mcmc_rmse,,15,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,steps,16 24 32 48 64 128 256,,7,1.9968925354293847,0.999998693704721,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,start_median,16 24 32 48 64 128 256,,7,1.9968925354293847,0.999998693704721,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,start_p90,16 24 32 48 64 128 256,,7,1.9968925354293847,0.999998693704721,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.984681490500971,0.999987145116748,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.0,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,slem,16 24 32 48 64 128 256,,7,0.00575684114607944,0.6446539662468179,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.9990454451811643,0.9999998749917737,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-2.001919975124098,0.9999994926999959,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,spectral_time,16 24 32 48 64 128 256,,7,2.001919975124098,0.9999994926999959,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963700776,0.9999979891781071,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,delta_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.7531226332779578,0.7999035360296503,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,2.74850415203069,0.9785847263453904,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,propagation_seconds,16 24 32 48 64 128 256,,7,3.5382640940621473,0.9747147683537775,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.7229799800765517,0.7454889949776189,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.25,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,steps,16 24 32 48 64 128 256,,7,2.000118734783249,0.9999999982228501,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,start_median,16 24 32 48 64 128 256,,7,2.000118734783249,0.9999999982228501,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,start_p90,16 24 32 48 64 128 256,,7,2.000118734783249,0.9999999982228501,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.99425213937449,0.9999994670156448,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.0,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,slem,16 24 32 48 64 128 256,,7,0.00575684114607944,0.6446539662468179,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.9990454451811643,0.9999998749917737,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-2.001919975124098,0.9999994926999959,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,spectral_time,16 24 32 48 64 128 256,,7,2.001919975124098,0.9999994926999959,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963700776,0.9999979891781071,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,delta_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.7531226332779578,0.7999035360296503,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,2.74850415203069,0.9785847263453904,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,propagation_seconds,16 24 32 48 64 128 256,,7,3.5382640940621473,0.9747147683537775,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.7229799800765517,0.7454889949776189,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.1,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,steps,16 24 32 48 64 128 256,,7,2.0003935396188055,0.9999996200633366,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,start_median,16 24 32 48 64 128 256,,7,2.0003935396188055,0.9999996200633366,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,start_p90,16 24 32 48 64 128 256,,7,2.0003935396188055,0.9999996200633366,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.9961426450471735,0.999999850335256,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.0,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,slem,16 24 32 48 64 128 256,,7,0.00575684114607944,0.6446539662468179,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.9990454451811643,0.9999998749917737,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-2.001919975124098,0.9999994926999959,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,spectral_time,16 24 32 48 64 128 256,,7,2.001919975124098,0.9999994926999959,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963700776,0.9999979891781071,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,delta_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.7531226332779578,0.7999035360296503,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,2.74850415203069,0.9785847263453904,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,propagation_seconds,16 24 32 48 64 128 256,,7,3.5382640940621473,0.9747147683537775,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.7229799800765517,0.7454889949776189,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.05,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,steps,16 24 32 48 64 128 256,,7,2.0018994554235783,0.9999993384901865,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,start_median,16 24 32 48 64 128 256,,7,2.0018994554235783,0.9999993384901865,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,start_p90,16 24 32 48 64 128 256,,7,2.0018994554235783,0.9999993384901865,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.9983109012133435,0.9999999563157986,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.0,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,slem,16 24 32 48 64 128 256,,7,0.00575684114607944,0.6446539662468179,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.9990454451811643,0.9999998749917737,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-2.001919975124098,0.9999994926999959,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,spectral_time,16 24 32 48 64 128 256,,7,2.001919975124098,0.9999994926999959,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963700776,0.9999979891781071,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,delta_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.7531226332779578,0.7999035360296503,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,2.74850415203069,0.9785847263453904,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,propagation_seconds,16 24 32 48 64 128 256,,7,3.5382640940621473,0.9747147683537775,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.7229799800765517,0.7454889949776189,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,none,,full,0.01,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,steps,16 24 32 48 64 128 256,,7,1.8181685440006257,0.9968641031589461,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,start_median,16 24 32 48 64 128 256,,7,1.867535095932427,0.997317545793697,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,start_p90,16 24 32 48 64 128 256,,7,1.823106414494933,0.9968419249218861,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.8098123105203172,0.9967482419059727,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.17872399142875922,0.7626188807294871,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,slem,16 24 32 48 64 128 256,,7,0.02058526423477194,0.6947202087972892,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.9584818959175536,0.9990622637916551,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-1.9687270604442628,0.9992449353977619,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,spectral_time,16 24 32 48 64 128 256,,7,1.9687270604442628,0.9992449353977619,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963695747,0.9999979891781077,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,delta_lambda2,16 24 32 48 256,64 128,5,0.4664049239825373,0.20112696431652177,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.6893416156954942,0.9158321217231383,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,2.701773275880474,0.9833344601990389,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,propagation_seconds,16 24 32 48 64 128 256,,7,3.1058167080362207,0.9450914459358293,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.8626883743353093,0.8459918987871953,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.25,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,steps,16 24 32 48 64 128 256,,7,1.8942992138454564,0.9977868772461108,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,start_median,16 24 32 48 64 128 256,,7,1.9285141447668885,0.9987773794823996,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,start_p90,16 24 32 48 64 128 256,,7,1.903904897731506,0.9981204203154925,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.8949712447827811,0.9980426926209129,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.10581952093779218,0.5847691974451897,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,slem,16 24 32 48 64 128 256,,7,0.02058526423477194,0.6947202087972892,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.9584818959175536,0.9990622637916551,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-1.9687270604442628,0.9992449353977619,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,spectral_time,16 24 32 48 64 128 256,,7,1.9687270604442628,0.9992449353977619,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963695747,0.9999979891781077,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,delta_lambda2,16 24 32 48 256,64 128,5,0.4664049239825373,0.20112696431652177,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.6893416156954942,0.9158321217231383,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,2.701773275880474,0.9833344601990389,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,propagation_seconds,16 24 32 48 64 128 256,,7,3.1058167080362207,0.9450914459358293,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.8626883743353093,0.8459918987871953,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.1,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,steps,16 24 32 48 64 128 256,,7,1.9196706854709875,0.9979044413351965,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,start_median,16 24 32 48 64 128 256,,7,1.9470665967402707,0.999114106970999,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,start_p90,16 24 32 48 64 128 256,,7,1.9220667778490395,0.9980717042530335,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.9142113327267787,0.9977855682222816,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.08072285414781737,0.4582979602460448,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,slem,16 24 32 48 64 128 256,,7,0.02058526423477194,0.6947202087972892,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.9584818959175536,0.9990622637916551,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-1.9687270604442628,0.9992449353977619,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,spectral_time,16 24 32 48 64 128 256,,7,1.9687270604442628,0.9992449353977619,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963695747,0.9999979891781077,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,delta_lambda2,16 24 32 48 256,64 128,5,0.4664049239825373,0.20112696431652177,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.6893416156954942,0.9158321217231383,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,2.701773275880474,0.9833344601990389,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,propagation_seconds,16 24 32 48 64 128 256,,7,3.1058167080362207,0.9450914459358293,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.8626883743353093,0.8459918987871953,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.05,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,steps,16 24 32 48 64 128 256,,7,1.950057019257395,0.9987727917103507,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,start_median,16 24 32 48 64 128 256,,7,1.9554875802444827,0.9990102027633496,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,start_p90,16 24 32 48 64 128 256,,7,1.950057019257395,0.9987727917103507,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.9465524354884371,0.9987138436178558,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.051842436166183135,0.35479448548361925,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,slem,16 24 32 48 64 128 256,,7,0.02058526423477194,0.6947202087972892,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.9584818959175536,0.9990622637916551,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-1.9687270604442628,0.9992449353977619,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,spectral_time,16 24 32 48 64 128 256,,7,1.9687270604442628,0.9992449353977619,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963695747,0.9999979891781077,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,delta_lambda2,16 24 32 48 256,64 128,5,0.4664049239825373,0.20112696431652177,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.6893416156954942,0.9158321217231383,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,2.701773275880474,0.9833344601990389,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,propagation_seconds,16 24 32 48 64 128 256,,7,3.1058167080362207,0.9450914459358293,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.8626883743353093,0.8459918987871953,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,halves,,full,0.01,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,steps,16 24 32 48 64 128 256,,7,1.3658534474701096,0.952653286247344,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,start_median,16 24 32 48 64 128 256,,7,1.39882519504972,0.9478265453436838,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,start_p90,16 24 32 48 64 128 256,,7,1.3707988741884631,0.9488384687468107,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.3721419592328734,0.9618977156119307,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.6186984032060425,0.8388331861471502,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,slem,16 24 32 48 64 128 256,,7,0.015288690865734915,0.6509967243081884,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.4337500408906099,0.9550368793382424,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-1.4419566038079654,0.9546210242026115,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,spectral_time,16 24 32 48 64 128 256,,7,1.4135309355763652,0.9364910763816637,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963699208,0.999997989178107,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,delta_lambda2,24 48 64 128 256,16 32,5,0.030764161359152255,0.002363199073322253,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.8397730672789958,0.9671082043119466,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,3.02091164387672,0.9701428102920887,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,propagation_seconds,16 24 32 48 64 128 256,,7,2.7248212792947237,0.9717488926569895,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.912631073653427,0.9339538209488365,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.25,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,steps,16 24 32 48 64 128 256,,7,1.3832037105107469,0.9415462395511195,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,start_median,16 24 32 48 64 128 256,,7,1.4100708256664718,0.9404178725285028,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,start_p90,16 24 32 48 64 128 256,,7,1.3903383936143214,0.9392553735769071,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.3978091929075378,0.9557275022151173,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.5985103583282575,0.8001416035146399,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,slem,16 24 32 48 64 128 256,,7,0.015288690865734915,0.6509967243081884,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.4337500408906099,0.9550368793382424,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-1.4419566038079654,0.9546210242026115,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,spectral_time,16 24 32 48 64 128 256,,7,1.4135309355763652,0.9364910763816637,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963699208,0.999997989178107,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,delta_lambda2,24 48 64 128 256,16 32,5,0.030764161359152255,0.002363199073322253,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.8397730672789958,0.9671082043119466,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,3.02091164387672,0.9701428102920887,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,propagation_seconds,16 24 32 48 64 128 256,,7,2.7248212792947237,0.9717488926569895,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.912631073653427,0.9339538209488365,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.1,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,steps,16 24 32 48 64 128 256,,7,1.386560949196264,0.9404018295797276,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,start_median,16 24 32 48 64 128 256,,7,1.4074733786437157,0.9377359251270401,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,start_p90,16 24 32 48 64 128 256,,7,1.3897867269825404,0.93946618784891,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.3970772695155247,0.9552167367044473,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.5991069785375389,0.7968759377715964,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,slem,16 24 32 48 64 128 256,,7,0.015288690865734915,0.6509967243081884,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.4337500408906099,0.9550368793382424,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-1.4419566038079654,0.9546210242026115,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,spectral_time,16 24 32 48 64 128 256,,7,1.4135309355763652,0.9364910763816637,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963699208,0.999997989178107,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,delta_lambda2,24 48 64 128 256,16 32,5,0.030764161359152255,0.002363199073322253,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.8397730672789958,0.9671082043119466,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,3.02091164387672,0.9701428102920887,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,propagation_seconds,16 24 32 48 64 128 256,,7,2.7248212792947237,0.9717488926569895,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.912631073653427,0.9339538209488365,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.05,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,steps,16 24 32 48 64 128 256,,7,1.39672618354432,0.940079999871162,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,start_median,16 24 32 48 64 128 256,,7,1.4120374273411385,0.9373379111319676,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,start_p90,16 24 32 48 64 128 256,,7,1.4008368437910326,0.9393551832312494,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,observed_tv_log_decay,16 24 32 48 64 128 256,,7,-1.4152784006819992,0.9568237754696389,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,vs_unedited,16 24 32 48 64 128 256,,7,0.5839801996340842,0.7907438902499861,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,vs_max_degree,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,slem,16 24 32 48 64 128 256,,7,0.015288690865734915,0.6509967243081884,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,transition_lambda2,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,transition_lambda_min,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,spectral_gap,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,absolute_spectral_gap,16 24 32 48 64 128 256,,7,-1.4337500408906099,0.9550368793382424,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,asymptotic_rate,16 24 32 48 64 128 256,,7,-1.4419566038079654,0.9546210242026115,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,spectral_time,16 24 32 48 64 128 256,,7,1.4135309355763652,0.9364910763816637,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,lambda2,16 24 32 48 64 128 256,,7,-1.9961786963699208,0.999997989178107,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,delta_lambda2,24 48 64 128 256,16 32,5,0.030764161359152255,0.002363199073322253,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,setup_seconds,16 24 32 48 64 128 256,,7,0.8397730672789958,0.9671082043119466,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,spectrum_seconds,16 24 32 48 64 128 256,,7,3.02091164387672,0.9701428102920887,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,propagation_seconds,16 24 32 48 64 128 256,,7,2.7248212792947237,0.9717488926569895,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,updates_per_second,16 24 32 48 64 128 256,,7,-0.912631073653427,0.9339538209488365,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,mcmc_ess_per_second,,16 24 32 48 64 128 256,0,,,
+scaling,4,Cycle scaling,"{""family"":""cycle""}",even,clockwise,random,,full,0.01,all,,mcmc_rmse,,16 24 32 48 64 128 256,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,steps,15 31 63 127,,4,1.9967175238675123,0.9999998442813989,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,start_median,15 31 63 127,,4,1.9967175238675123,0.9999998442813989,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,start_p90,15 31 63 127,,4,1.9967175238675123,0.9999998442813989,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,observed_tv_log_decay,15 31 63 127,,4,-1.9824686730014212,0.9999936816249438,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,vs_unedited,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,vs_max_degree,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,slem,15 31 63 127,,4,0.009772179324917172,0.7826495971421228,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,transition_lambda2,15 31 63 127,,4,0.03996895299106617,0.7797475116060683,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,transition_lambda_min,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,spectral_gap,15 31 63 127,,4,-1.9935225937173977,0.9999970810095747,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,absolute_spectral_gap,15 31 63 127,,4,-1.9983823824793683,0.9999998189867297,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,asymptotic_rate,15 31 63 127,,4,-2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,spectral_time,15 31 63 127,,4,2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,lambda2,15 31 63 127,,4,-1.9935225937166337,0.9999970810095753,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,delta_lambda2,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,setup_seconds,15 31 63 127,,4,0.780679281213138,0.953688031306105,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,spectrum_seconds,15 31 63 127,,4,1.6177005780204057,0.9969803533191604,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,propagation_seconds,15 31 63 127,,4,3.0730944645245257,0.9909473404189552,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,updates_per_second,15 31 63 127,,4,-0.48472719556860294,0.9558398760263803,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,mcmc_ess_per_second,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.25,all,,mcmc_rmse,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,steps,15 31 63 127,,4,2.0022046388355204,0.999999696245213,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,start_median,15 31 63 127,,4,2.0022046388355204,0.999999696245213,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,start_p90,15 31 63 127,,4,2.0022046388355204,0.999999696245213,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,observed_tv_log_decay,15 31 63 127,,4,-1.9902068891618168,0.9999983934264198,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,vs_unedited,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,vs_max_degree,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,slem,15 31 63 127,,4,0.009772179324917172,0.7826495971421228,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,transition_lambda2,15 31 63 127,,4,0.03996895299106617,0.7797475116060683,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,transition_lambda_min,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,spectral_gap,15 31 63 127,,4,-1.9935225937173977,0.9999970810095747,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,absolute_spectral_gap,15 31 63 127,,4,-1.9983823824793683,0.9999998189867297,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,asymptotic_rate,15 31 63 127,,4,-2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,spectral_time,15 31 63 127,,4,2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,lambda2,15 31 63 127,,4,-1.9935225937166337,0.9999970810095753,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,delta_lambda2,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,setup_seconds,15 31 63 127,,4,0.780679281213138,0.953688031306105,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,spectrum_seconds,15 31 63 127,,4,1.6177005780204057,0.9969803533191604,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,propagation_seconds,15 31 63 127,,4,3.0730944645245257,0.9909473404189552,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,updates_per_second,15 31 63 127,,4,-0.48472719556860294,0.9558398760263803,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,mcmc_ess_per_second,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.1,all,,mcmc_rmse,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,steps,15 31 63 127,,4,2.000088004328736,0.9999999475888262,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,start_median,15 31 63 127,,4,2.000088004328736,0.9999999475888262,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,start_p90,15 31 63 127,,4,2.000088004328736,0.9999999475888262,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,observed_tv_log_decay,15 31 63 127,,4,-1.9930425261944613,0.99999928212491,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,vs_unedited,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,vs_max_degree,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,slem,15 31 63 127,,4,0.009772179324917172,0.7826495971421228,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,transition_lambda2,15 31 63 127,,4,0.03996895299106617,0.7797475116060683,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,transition_lambda_min,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,spectral_gap,15 31 63 127,,4,-1.9935225937173977,0.9999970810095747,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,absolute_spectral_gap,15 31 63 127,,4,-1.9983823824793683,0.9999998189867297,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,asymptotic_rate,15 31 63 127,,4,-2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,spectral_time,15 31 63 127,,4,2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,lambda2,15 31 63 127,,4,-1.9935225937166337,0.9999970810095753,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,delta_lambda2,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,setup_seconds,15 31 63 127,,4,0.780679281213138,0.953688031306105,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,spectrum_seconds,15 31 63 127,,4,1.6177005780204057,0.9969803533191604,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,propagation_seconds,15 31 63 127,,4,3.0730944645245257,0.9909473404189552,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,updates_per_second,15 31 63 127,,4,-0.48472719556860294,0.9558398760263803,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,mcmc_ess_per_second,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.05,all,,mcmc_rmse,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,steps,15 31 63 127,,4,2.00095181575598,0.9999999835601616,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,start_median,15 31 63 127,,4,2.00095181575598,0.9999999835601616,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,start_p90,15 31 63 127,,4,2.00095181575598,0.9999999835601616,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,observed_tv_log_decay,15 31 63 127,,4,-1.9967195898859755,0.999999948131264,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,vs_unedited,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,vs_max_degree,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,slem,15 31 63 127,,4,0.009772179324917172,0.7826495971421228,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,transition_lambda2,15 31 63 127,,4,0.03996895299106617,0.7797475116060683,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,transition_lambda_min,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,spectral_gap,15 31 63 127,,4,-1.9935225937173977,0.9999970810095747,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,absolute_spectral_gap,15 31 63 127,,4,-1.9983823824793683,0.9999998189867297,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,asymptotic_rate,15 31 63 127,,4,-2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,spectral_time,15 31 63 127,,4,2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,lambda2,15 31 63 127,,4,-1.9935225937166337,0.9999970810095753,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,delta_lambda2,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,setup_seconds,15 31 63 127,,4,0.780679281213138,0.953688031306105,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,spectrum_seconds,15 31 63 127,,4,1.6177005780204057,0.9969803533191604,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,propagation_seconds,15 31 63 127,,4,3.0730944645245257,0.9909473404189552,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,updates_per_second,15 31 63 127,,4,-0.48472719556860294,0.9558398760263803,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,mcmc_ess_per_second,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,max_degree,none,,full,0.01,all,,mcmc_rmse,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,steps,15 31 63 127,,4,1.9967175238675123,0.9999998442813989,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,start_median,15 31 63 127,,4,1.9967175238675123,0.9999998442813989,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,start_p90,15 31 63 127,,4,1.9967175238675123,0.9999998442813989,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,observed_tv_log_decay,15 31 63 127,,4,-1.9824686730014212,0.9999936816249438,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,vs_unedited,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,vs_max_degree,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,slem,15 31 63 127,,4,0.009772179324917172,0.7826495971421228,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,transition_lambda2,15 31 63 127,,4,0.03996895299106617,0.7797475116060683,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,transition_lambda_min,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,spectral_gap,15 31 63 127,,4,-1.9935225937173977,0.9999970810095747,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,absolute_spectral_gap,15 31 63 127,,4,-1.9983823824793683,0.9999998189867297,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,asymptotic_rate,15 31 63 127,,4,-2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,spectral_time,15 31 63 127,,4,2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,lambda2,15 31 63 127,,4,-1.9935225937166337,0.9999970810095753,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,delta_lambda2,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,setup_seconds,15 31 63 127,,4,0.4905831149682204,0.9700974519832416,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,spectrum_seconds,15 31 63 127,,4,1.9644151304035822,0.9909853982830884,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,propagation_seconds,15 31 63 127,,4,3.227070501662109,0.989046702101488,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,updates_per_second,15 31 63 127,,4,-0.6387032327061862,0.9997686234094308,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,mcmc_ess_per_second,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.25,all,,mcmc_rmse,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,steps,15 31 63 127,,4,2.0022046388355204,0.999999696245213,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,start_median,15 31 63 127,,4,2.0022046388355204,0.999999696245213,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,start_p90,15 31 63 127,,4,2.0022046388355204,0.999999696245213,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,observed_tv_log_decay,15 31 63 127,,4,-1.9902068891618168,0.9999983934264198,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,vs_unedited,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,vs_max_degree,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,slem,15 31 63 127,,4,0.009772179324917172,0.7826495971421228,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,transition_lambda2,15 31 63 127,,4,0.03996895299106617,0.7797475116060683,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,transition_lambda_min,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,spectral_gap,15 31 63 127,,4,-1.9935225937173977,0.9999970810095747,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,absolute_spectral_gap,15 31 63 127,,4,-1.9983823824793683,0.9999998189867297,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,asymptotic_rate,15 31 63 127,,4,-2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,spectral_time,15 31 63 127,,4,2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,lambda2,15 31 63 127,,4,-1.9935225937166337,0.9999970810095753,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,delta_lambda2,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,setup_seconds,15 31 63 127,,4,0.4905831149682204,0.9700974519832416,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,spectrum_seconds,15 31 63 127,,4,1.9644151304035822,0.9909853982830884,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,propagation_seconds,15 31 63 127,,4,3.227070501662109,0.989046702101488,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,updates_per_second,15 31 63 127,,4,-0.6387032327061862,0.9997686234094308,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,mcmc_ess_per_second,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.1,all,,mcmc_rmse,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,steps,15 31 63 127,,4,2.000088004328736,0.9999999475888262,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,start_median,15 31 63 127,,4,2.000088004328736,0.9999999475888262,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,start_p90,15 31 63 127,,4,2.000088004328736,0.9999999475888262,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,observed_tv_log_decay,15 31 63 127,,4,-1.9930425261944613,0.99999928212491,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,vs_unedited,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,vs_max_degree,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,slem,15 31 63 127,,4,0.009772179324917172,0.7826495971421228,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,transition_lambda2,15 31 63 127,,4,0.03996895299106617,0.7797475116060683,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,transition_lambda_min,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,spectral_gap,15 31 63 127,,4,-1.9935225937173977,0.9999970810095747,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,absolute_spectral_gap,15 31 63 127,,4,-1.9983823824793683,0.9999998189867297,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,asymptotic_rate,15 31 63 127,,4,-2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,spectral_time,15 31 63 127,,4,2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,lambda2,15 31 63 127,,4,-1.9935225937166337,0.9999970810095753,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,delta_lambda2,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,setup_seconds,15 31 63 127,,4,0.4905831149682204,0.9700974519832416,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,spectrum_seconds,15 31 63 127,,4,1.9644151304035822,0.9909853982830884,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,propagation_seconds,15 31 63 127,,4,3.227070501662109,0.989046702101488,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,updates_per_second,15 31 63 127,,4,-0.6387032327061862,0.9997686234094308,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,mcmc_ess_per_second,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.05,all,,mcmc_rmse,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,steps,15 31 63 127,,4,2.00095181575598,0.9999999835601616,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,start_median,15 31 63 127,,4,2.00095181575598,0.9999999835601616,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,start_p90,15 31 63 127,,4,2.00095181575598,0.9999999835601616,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,observed_tv_log_decay,15 31 63 127,,4,-1.9967195898859755,0.999999948131264,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,vs_unedited,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,vs_max_degree,15 31 63 127,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,slem,15 31 63 127,,4,0.009772179324917172,0.7826495971421228,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,transition_lambda2,15 31 63 127,,4,0.03996895299106617,0.7797475116060683,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,transition_lambda_min,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,spectral_gap,15 31 63 127,,4,-1.9935225937173977,0.9999970810095747,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,absolute_spectral_gap,15 31 63 127,,4,-1.9983823824793683,0.9999998189867297,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,asymptotic_rate,15 31 63 127,,4,-2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,spectral_time,15 31 63 127,,4,2.0032597050329777,0.9999992642846098,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,lambda2,15 31 63 127,,4,-1.9935225937166337,0.9999970810095753,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,delta_lambda2,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,setup_seconds,15 31 63 127,,4,0.4905831149682204,0.9700974519832416,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,spectrum_seconds,15 31 63 127,,4,1.9644151304035822,0.9909853982830884,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,propagation_seconds,15 31 63 127,,4,3.227070501662109,0.989046702101488,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,updates_per_second,15 31 63 127,,4,-0.6387032327061862,0.9997686234094308,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,mcmc_ess_per_second,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,metropolis,none,,full,0.01,all,,mcmc_rmse,,15 31 63 127,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,steps,15 31 63,,3,1.9799924975608392,0.9999575846352913,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,start_median,15 31 63,,3,1.9799924975608392,0.9999575846352913,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,start_p90,15 31 63,,3,1.9799924975608392,0.9999575846352913,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,observed_tv_log_decay,15 31 63,,3,-1.9605808797419153,0.9999406639744888,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,vs_unedited,15 31 63,,3,0.0,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,vs_max_degree,15 31 63,,3,0.01583966309691677,0.6184610989045969,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,slem,15 31 63,,3,0.057620043502615924,0.889717660641049,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,transition_lambda2,15 31 63,,3,0.05762004138065128,0.8897206923739133,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,transition_lambda_min,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,spectral_gap,15 31 63,,3,-1.9694469332275604,0.9999707380646861,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,absolute_spectral_gap,15 31 63,,3,-1.9694470355635099,0.9999708212322935,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,asymptotic_rate,15 31 63,,3,-1.998034908266208,0.9999999072433063,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,spectral_time,15 31 63,,3,1.998034908266208,0.9999999072433063,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,lambda2,15 31 63,,3,-1.99035101357907,0.9999970751799095,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,delta_lambda2,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,setup_seconds,15 31 63,,3,3.031505376369816,0.9968691032391616,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,spectrum_seconds,15 31 63,,3,1.8369642448406116,0.9968315344981409,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,propagation_seconds,15 31 63,,3,2.1293697609476427,0.9761484970031823,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,updates_per_second,15 31 63,,3,-0.7299377406070677,0.9820702673204156,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,mcmc_ess_per_second,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.25,all,,mcmc_rmse,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,steps,15 31 63,,3,1.974206755221949,0.9999902418435536,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,start_median,15 31 63,,3,1.974206755221949,0.9999902418435536,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,start_p90,15 31 63,,3,1.974206755221949,0.9999902418435536,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,observed_tv_log_decay,15 31 63,,3,-1.9886284452844356,0.9999999833537668,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,vs_unedited,15 31 63,,3,0.0,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,vs_max_degree,15 31 63,,3,0.029194838096441987,0.9466676923318889,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,slem,15 31 63,,3,0.057620043502615924,0.889717660641049,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,transition_lambda2,15 31 63,,3,0.05762004138065128,0.8897206923739133,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,transition_lambda_min,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,spectral_gap,15 31 63,,3,-1.9694469332275604,0.9999707380646861,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,absolute_spectral_gap,15 31 63,,3,-1.9694470355635099,0.9999708212322935,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,asymptotic_rate,15 31 63,,3,-1.998034908266208,0.9999999072433063,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,spectral_time,15 31 63,,3,1.998034908266208,0.9999999072433063,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,lambda2,15 31 63,,3,-1.99035101357907,0.9999970751799095,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,delta_lambda2,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,setup_seconds,15 31 63,,3,3.031505376369816,0.9968691032391616,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,spectrum_seconds,15 31 63,,3,1.8369642448406116,0.9968315344981409,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,propagation_seconds,15 31 63,,3,2.1293697609476427,0.9761484970031823,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,updates_per_second,15 31 63,,3,-0.7299377406070677,0.9820702673204156,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,mcmc_ess_per_second,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.1,all,,mcmc_rmse,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,steps,15 31 63,,3,1.979126933658344,0.9999707634837676,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,start_median,15 31 63,,3,1.979126933658344,0.9999707634837676,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,start_p90,15 31 63,,3,1.979126933658344,0.9999707634837676,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,observed_tv_log_decay,15 31 63,,3,-1.9912455004981906,0.9999996451289294,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,vs_unedited,15 31 63,,3,0.0,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,vs_max_degree,15 31 63,,3,0.020786728662097256,0.8114539605178823,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,slem,15 31 63,,3,0.057620043502615924,0.889717660641049,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,transition_lambda2,15 31 63,,3,0.05762004138065128,0.8897206923739133,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,transition_lambda_min,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,spectral_gap,15 31 63,,3,-1.9694469332275604,0.9999707380646861,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,absolute_spectral_gap,15 31 63,,3,-1.9694470355635099,0.9999708212322935,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,asymptotic_rate,15 31 63,,3,-1.998034908266208,0.9999999072433063,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,spectral_time,15 31 63,,3,1.998034908266208,0.9999999072433063,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,lambda2,15 31 63,,3,-1.99035101357907,0.9999970751799095,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,delta_lambda2,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,setup_seconds,15 31 63,,3,3.031505376369816,0.9968691032391616,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,spectrum_seconds,15 31 63,,3,1.8369642448406116,0.9968315344981409,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,propagation_seconds,15 31 63,,3,2.1293697609476427,0.9761484970031823,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,updates_per_second,15 31 63,,3,-0.7299377406070677,0.9820702673204156,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,mcmc_ess_per_second,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.05,all,,mcmc_rmse,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,steps,15 31 63,,3,1.9916965249689662,0.9999990577348162,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,start_median,15 31 63,,3,1.9916965249689662,0.9999990577348162,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,start_p90,15 31 63,,3,1.9916965249689662,0.9999990577348162,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,observed_tv_log_decay,15 31 63,,3,-1.994047036798341,0.9999999853999458,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,vs_unedited,15 31 63,,3,0.0,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,vs_max_degree,15 31 63,,3,0.009564877199517966,0.9599452010460252,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,slem,15 31 63,,3,0.057620043502615924,0.889717660641049,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,transition_lambda2,15 31 63,,3,0.05762004138065128,0.8897206923739133,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,transition_lambda_min,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,spectral_gap,15 31 63,,3,-1.9694469332275604,0.9999707380646861,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,absolute_spectral_gap,15 31 63,,3,-1.9694470355635099,0.9999708212322935,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,asymptotic_rate,15 31 63,,3,-1.998034908266208,0.9999999072433063,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,spectral_time,15 31 63,,3,1.998034908266208,0.9999999072433063,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,lambda2,15 31 63,,3,-1.99035101357907,0.9999970751799095,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,delta_lambda2,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,setup_seconds,15 31 63,,3,3.031505376369816,0.9968691032391616,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,spectrum_seconds,15 31 63,,3,1.8369642448406116,0.9968315344981409,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,propagation_seconds,15 31 63,,3,2.1293697609476427,0.9761484970031823,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,updates_per_second,15 31 63,,3,-0.7299377406070677,0.9820702673204156,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,mcmc_ess_per_second,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",odd,fmmc,none,,full,0.01,all,,mcmc_rmse,,15 31 63,0,,,127
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,steps,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,start_median,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,start_p90,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,observed_tv_log_decay,16 32 64 128,,4,-0.1138730585095054,0.4079301153176136,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,vs_unedited,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,vs_max_degree,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,slem,16 32 64 128,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,transition_lambda2,16 32 64 128,,4,0.03584805517889625,0.7847345783588475,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,transition_lambda_min,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,spectral_gap,16 32 64 128,,4,-1.994169933238321,0.999997701403833,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,absolute_spectral_gap,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,asymptotic_rate,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,spectral_time,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,lambda2,16 32 64 128,,4,-1.9941699332382419,0.9999977014038329,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,delta_lambda2,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,setup_seconds,16 32 64 128,,4,0.7202629678519618,0.9867484636024488,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,spectrum_seconds,16 32 64 128,,4,1.9047466615109263,0.9894968193658081,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,propagation_seconds,16 32 64 128,,4,1.8048782405918384,0.9965398669293836,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,updates_per_second,16 32 64 128,,4,-0.8048782405918382,0.982840034617483,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,mcmc_ess_per_second,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.25,all,,mcmc_rmse,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,steps,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,start_median,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,start_p90,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,observed_tv_log_decay,16 32 64 128,,4,-0.1138730585095054,0.4079301153176136,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,vs_unedited,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,vs_max_degree,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,slem,16 32 64 128,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,transition_lambda2,16 32 64 128,,4,0.03584805517889625,0.7847345783588475,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,transition_lambda_min,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,spectral_gap,16 32 64 128,,4,-1.994169933238321,0.999997701403833,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,absolute_spectral_gap,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,asymptotic_rate,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,spectral_time,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,lambda2,16 32 64 128,,4,-1.9941699332382419,0.9999977014038329,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,delta_lambda2,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,setup_seconds,16 32 64 128,,4,0.7202629678519618,0.9867484636024488,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,spectrum_seconds,16 32 64 128,,4,1.9047466615109263,0.9894968193658081,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,propagation_seconds,16 32 64 128,,4,1.8048782405918384,0.9965398669293836,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,updates_per_second,16 32 64 128,,4,-0.8048782405918382,0.982840034617483,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,mcmc_ess_per_second,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.1,all,,mcmc_rmse,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,steps,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,start_median,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,start_p90,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,observed_tv_log_decay,16 32 64 128,,4,-0.1138730585095054,0.4079301153176136,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,vs_unedited,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,vs_max_degree,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,slem,16 32 64 128,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,transition_lambda2,16 32 64 128,,4,0.03584805517889625,0.7847345783588475,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,transition_lambda_min,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,spectral_gap,16 32 64 128,,4,-1.994169933238321,0.999997701403833,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,absolute_spectral_gap,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,asymptotic_rate,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,spectral_time,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,lambda2,16 32 64 128,,4,-1.9941699332382419,0.9999977014038329,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,delta_lambda2,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,setup_seconds,16 32 64 128,,4,0.7202629678519618,0.9867484636024488,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,spectrum_seconds,16 32 64 128,,4,1.9047466615109263,0.9894968193658081,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,propagation_seconds,16 32 64 128,,4,1.8048782405918384,0.9965398669293836,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,updates_per_second,16 32 64 128,,4,-0.8048782405918382,0.982840034617483,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,mcmc_ess_per_second,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.05,all,,mcmc_rmse,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,steps,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,start_median,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,start_p90,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,observed_tv_log_decay,16 32 64 128,,4,-0.1138730585095054,0.4079301153176136,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,vs_unedited,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,vs_max_degree,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,slem,16 32 64 128,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,transition_lambda2,16 32 64 128,,4,0.03584805517889625,0.7847345783588475,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,transition_lambda_min,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,spectral_gap,16 32 64 128,,4,-1.994169933238321,0.999997701403833,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,absolute_spectral_gap,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,asymptotic_rate,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,spectral_time,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,lambda2,16 32 64 128,,4,-1.9941699332382419,0.9999977014038329,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,delta_lambda2,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,setup_seconds,16 32 64 128,,4,0.7202629678519618,0.9867484636024488,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,spectrum_seconds,16 32 64 128,,4,1.9047466615109263,0.9894968193658081,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,propagation_seconds,16 32 64 128,,4,1.8048782405918384,0.9965398669293836,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,updates_per_second,16 32 64 128,,4,-0.8048782405918382,0.982840034617483,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,mcmc_ess_per_second,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,max_degree,none,,full,0.01,all,,mcmc_rmse,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,steps,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,start_median,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,start_p90,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,observed_tv_log_decay,16 32 64 128,,4,-0.1138730585095054,0.4079301153176136,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,vs_unedited,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,vs_max_degree,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,slem,16 32 64 128,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,transition_lambda2,16 32 64 128,,4,0.03584805517889625,0.7847345783588475,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,transition_lambda_min,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,spectral_gap,16 32 64 128,,4,-1.994169933238321,0.999997701403833,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,absolute_spectral_gap,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,asymptotic_rate,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,spectral_time,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,lambda2,16 32 64 128,,4,-1.9941699332382419,0.9999977014038329,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,delta_lambda2,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,setup_seconds,16 32 64 128,,4,0.8145444618855968,0.9864564556157025,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,spectrum_seconds,16 32 64 128,,4,1.993159066809487,0.9936577335808856,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,propagation_seconds,16 32 64 128,,4,1.7996804260678732,0.9949653988528716,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,updates_per_second,16 32 64 128,,4,-0.7996804260678735,0.9750123696508713,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,mcmc_ess_per_second,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.25,all,,mcmc_rmse,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,steps,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,start_median,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,start_p90,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,observed_tv_log_decay,16 32 64 128,,4,-0.1138730585095054,0.4079301153176136,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,vs_unedited,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,vs_max_degree,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,slem,16 32 64 128,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,transition_lambda2,16 32 64 128,,4,0.03584805517889625,0.7847345783588475,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,transition_lambda_min,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,spectral_gap,16 32 64 128,,4,-1.994169933238321,0.999997701403833,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,absolute_spectral_gap,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,asymptotic_rate,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,spectral_time,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,lambda2,16 32 64 128,,4,-1.9941699332382419,0.9999977014038329,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,delta_lambda2,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,setup_seconds,16 32 64 128,,4,0.8145444618855968,0.9864564556157025,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,spectrum_seconds,16 32 64 128,,4,1.993159066809487,0.9936577335808856,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,propagation_seconds,16 32 64 128,,4,1.7996804260678732,0.9949653988528716,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,updates_per_second,16 32 64 128,,4,-0.7996804260678735,0.9750123696508713,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,mcmc_ess_per_second,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.1,all,,mcmc_rmse,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,steps,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,start_median,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,start_p90,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,observed_tv_log_decay,16 32 64 128,,4,-0.1138730585095054,0.4079301153176136,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,vs_unedited,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,vs_max_degree,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,slem,16 32 64 128,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,transition_lambda2,16 32 64 128,,4,0.03584805517889625,0.7847345783588475,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,transition_lambda_min,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,spectral_gap,16 32 64 128,,4,-1.994169933238321,0.999997701403833,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,absolute_spectral_gap,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,asymptotic_rate,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,spectral_time,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,lambda2,16 32 64 128,,4,-1.9941699332382419,0.9999977014038329,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,delta_lambda2,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,setup_seconds,16 32 64 128,,4,0.8145444618855968,0.9864564556157025,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,spectrum_seconds,16 32 64 128,,4,1.993159066809487,0.9936577335808856,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,propagation_seconds,16 32 64 128,,4,1.7996804260678732,0.9949653988528716,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,updates_per_second,16 32 64 128,,4,-0.7996804260678735,0.9750123696508713,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,mcmc_ess_per_second,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.05,all,,mcmc_rmse,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,steps,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,start_median,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,start_p90,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,observed_tv_log_decay,16 32 64 128,,4,-0.1138730585095054,0.4079301153176136,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,vs_unedited,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,vs_max_degree,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,slem,16 32 64 128,,4,0.0,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,transition_lambda2,16 32 64 128,,4,0.03584805517889625,0.7847345783588475,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,transition_lambda_min,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,spectral_gap,16 32 64 128,,4,-1.994169933238321,0.999997701403833,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,absolute_spectral_gap,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,asymptotic_rate,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,spectral_time,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,lambda2,16 32 64 128,,4,-1.9941699332382419,0.9999977014038329,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,delta_lambda2,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,setup_seconds,16 32 64 128,,4,0.8145444618855968,0.9864564556157025,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,spectrum_seconds,16 32 64 128,,4,1.993159066809487,0.9936577335808856,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,propagation_seconds,16 32 64 128,,4,1.7996804260678732,0.9949653988528716,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,updates_per_second,16 32 64 128,,4,-0.7996804260678735,0.9750123696508713,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,mcmc_ess_per_second,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,metropolis,none,,full,0.01,all,,mcmc_rmse,,16 32 64 128,0,,,
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,steps,16 32 64,,3,1.9470046521558932,0.9998095763454865,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,start_median,16 32 64,,3,1.9470046521558932,0.9998095763454865,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,start_p90,16 32 64,,3,1.9470046521558932,0.9998095763454865,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,observed_tv_log_decay,16 32 64,,3,-1.9781406022735306,0.9999986465214846,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,vs_unedited,16 32 64,,3,0.0,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,vs_max_degree,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,slem,16 32 64,,3,0.05146228974973837,0.8940290262695578,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,transition_lambda2,16 32 64,,3,0.05146235737449218,0.894031817074379,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,transition_lambda_min,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,spectral_gap,16 32 64,,3,-1.9660870197946845,0.9999651257619255,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,absolute_spectral_gap,16 32 64,,3,-1.966086168954273,0.9999652083898265,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,asymptotic_rate,16 32 64,,3,-1.991643696106022,0.9999979860237214,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,spectral_time,16 32 64,,3,1.9916436961060227,0.9999979860237214,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,lambda2,16 32 64,,3,-1.9912974125577925,0.9999977051000883,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,delta_lambda2,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,setup_seconds,16 32 64,,3,2.733772154915814,0.9840761902420234,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,spectrum_seconds,16 32 64,,3,1.8253981350943245,0.9865623617664925,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,propagation_seconds,16 32 64,,3,2.1647658592412635,0.981516478400669,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,updates_per_second,16 32 64,,3,-0.7504500683972554,0.9940903065764047,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,mcmc_ess_per_second,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.25,all,,mcmc_rmse,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,steps,16 32 64,,3,1.964053540759107,0.9999090698080705,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,start_median,16 32 64,,3,1.964053540759107,0.9999090698080705,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,start_p90,16 32 64,,3,1.964053540759107,0.9999090698080705,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,observed_tv_log_decay,16 32 64,,3,-1.9759382005288966,0.9999947865272288,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,vs_unedited,16 32 64,,3,0.0,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,vs_max_degree,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,slem,16 32 64,,3,0.05146228974973837,0.8940290262695578,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,transition_lambda2,16 32 64,,3,0.05146235737449218,0.894031817074379,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,transition_lambda_min,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,spectral_gap,16 32 64,,3,-1.9660870197946845,0.9999651257619255,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,absolute_spectral_gap,16 32 64,,3,-1.966086168954273,0.9999652083898265,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,asymptotic_rate,16 32 64,,3,-1.991643696106022,0.9999979860237214,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,spectral_time,16 32 64,,3,1.9916436961060227,0.9999979860237214,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,lambda2,16 32 64,,3,-1.9912974125577925,0.9999977051000883,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,delta_lambda2,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,setup_seconds,16 32 64,,3,2.733772154915814,0.9840761902420234,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,spectrum_seconds,16 32 64,,3,1.8253981350943245,0.9865623617664925,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,propagation_seconds,16 32 64,,3,2.1647658592412635,0.981516478400669,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,updates_per_second,16 32 64,,3,-0.7504500683972554,0.9940903065764047,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,mcmc_ess_per_second,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.1,all,,mcmc_rmse,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,steps,16 32 64,,3,1.9922295745521112,0.9999994446341935,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,start_median,16 32 64,,3,1.9922295745521112,0.9999994446341935,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,start_p90,16 32 64,,3,1.9922295745521112,0.9999994446341935,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,observed_tv_log_decay,16 32 64,,3,-1.9808085168475031,0.999995923508411,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,vs_unedited,16 32 64,,3,0.0,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,vs_max_degree,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,slem,16 32 64,,3,0.05146228974973837,0.8940290262695578,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,transition_lambda2,16 32 64,,3,0.05146235737449218,0.894031817074379,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,transition_lambda_min,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,spectral_gap,16 32 64,,3,-1.9660870197946845,0.9999651257619255,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,absolute_spectral_gap,16 32 64,,3,-1.966086168954273,0.9999652083898265,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,asymptotic_rate,16 32 64,,3,-1.991643696106022,0.9999979860237214,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,spectral_time,16 32 64,,3,1.9916436961060227,0.9999979860237214,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,lambda2,16 32 64,,3,-1.9912974125577925,0.9999977051000883,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,delta_lambda2,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,setup_seconds,16 32 64,,3,2.733772154915814,0.9840761902420234,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,spectrum_seconds,16 32 64,,3,1.8253981350943245,0.9865623617664925,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,propagation_seconds,16 32 64,,3,2.1647658592412635,0.981516478400669,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,updates_per_second,16 32 64,,3,-0.7504500683972554,0.9940903065764047,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,mcmc_ess_per_second,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.05,all,,mcmc_rmse,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,steps,16 32 64,,3,1.9807629260926822,0.999986182317367,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,start_median,16 32 64,,3,1.9807629260926822,0.999986182317367,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,start_p90,16 32 64,,3,1.9807629260926822,0.999986182317367,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,observed_tv_log_decay,16 32 64,,3,-1.9830335899994331,0.9999945480860203,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,vs_unedited,16 32 64,,3,0.0,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,vs_max_degree,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,slem,16 32 64,,3,0.05146228974973837,0.8940290262695578,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,transition_lambda2,16 32 64,,3,0.05146235737449218,0.894031817074379,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,transition_lambda_min,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,spectral_gap,16 32 64,,3,-1.9660870197946845,0.9999651257619255,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,absolute_spectral_gap,16 32 64,,3,-1.966086168954273,0.9999652083898265,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,asymptotic_rate,16 32 64,,3,-1.991643696106022,0.9999979860237214,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,spectral_time,16 32 64,,3,1.9916436961060227,0.9999979860237214,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,lambda2,16 32 64,,3,-1.9912974125577925,0.9999977051000883,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,delta_lambda2,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,setup_seconds,16 32 64,,3,2.733772154915814,0.9840761902420234,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,spectrum_seconds,16 32 64,,3,1.8253981350943245,0.9865623617664925,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,propagation_seconds,16 32 64,,3,2.1647658592412635,0.981516478400669,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,updates_per_second,16 32 64,,3,-0.7504500683972554,0.9940903065764047,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,mcmc_ess_per_second,,16 32 64,0,,,128
+scaling,4,Reversible cycles,"{""family"":""cycle""}",even,fmmc,none,,full,0.01,all,,mcmc_rmse,,16 32 64,0,,,128
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,steps,16 32 64 128 256,,5,1.9969722673569579,0.9999991872651326,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,start_median,16 32 64 128 256,,5,1.9969722673569579,0.9999991872651326,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,start_p90,16 32 64 128 256,,5,1.9969722673569579,0.9999991872651326,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,observed_tv_log_decay,16 32 64 128 256,,5,-1.9841188361946427,0.9999884708035104,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,vs_unedited,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,vs_max_degree,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,slem,16 32 64 128 256,,5,0.0062293434895399425,0.6955638535043872,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,transition_lambda2,16 32 64 128 256,,5,0.006229343489539543,0.6955638535043679,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,transition_lambda_min,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,spectral_gap,16 32 64 128 256,,5,-1.9989676730875654,0.999999883749921,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,absolute_spectral_gap,16 32 64 128 256,,5,-1.9989676730888948,0.9999998837499212,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,asymptotic_rate,16 32 64 128 256,,5,-2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,spectral_time,16 32 64 128 256,,5,2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,lambda2,16 32 64 128 256,,5,-1.9989676730838037,0.9999998837499219,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,delta_lambda2,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,setup_seconds,16 32 64 128 256,,5,0.43281809220449124,0.8540925918985364,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,spectrum_seconds,16 32 64 128 256,,5,1.8260310104755089,0.998622341321632,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,propagation_seconds,16 32 64 128 256,,5,3.142410285076564,0.9949605989686264,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,updates_per_second,16 32 64 128 256,,5,-0.38498597604752466,0.8715250383276819,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,mcmc_ess_per_second,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,mcmc_rmse,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,steps,16 32 64 128 256,,5,2.0001173905832412,0.9999999982088601,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,start_median,16 32 64 128 256,,5,2.0001173905832412,0.9999999982088601,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,start_p90,16 32 64 128 256,,5,2.0001173905832412,0.9999999982088601,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,observed_tv_log_decay,16 32 64 128 256,,5,-1.9942658684033956,0.9999995054739075,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,vs_unedited,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,vs_max_degree,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,slem,16 32 64 128 256,,5,0.0062293434895399425,0.6955638535043872,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,transition_lambda2,16 32 64 128 256,,5,0.006229343489539543,0.6955638535043679,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,transition_lambda_min,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,spectral_gap,16 32 64 128 256,,5,-1.9989676730875654,0.999999883749921,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,absolute_spectral_gap,16 32 64 128 256,,5,-1.9989676730888948,0.9999998837499212,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,asymptotic_rate,16 32 64 128 256,,5,-2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,spectral_time,16 32 64 128 256,,5,2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,lambda2,16 32 64 128 256,,5,-1.9989676730838037,0.9999998837499219,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,delta_lambda2,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,setup_seconds,16 32 64 128 256,,5,0.43281809220449124,0.8540925918985364,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,spectrum_seconds,16 32 64 128 256,,5,1.8260310104755089,0.998622341321632,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,propagation_seconds,16 32 64 128 256,,5,3.142410285076564,0.9949605989686264,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,updates_per_second,16 32 64 128 256,,5,-0.38498597604752466,0.8715250383276819,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,mcmc_ess_per_second,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,mcmc_rmse,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,steps,16 32 64 128 256,,5,1.999914604627232,0.9999999990518644,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,start_median,16 32 64 128 256,,5,1.999914604627232,0.9999999990518644,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,start_p90,16 32 64 128 256,,5,1.999914604627232,0.9999999990518644,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,observed_tv_log_decay,16 32 64 128 256,,5,-1.9961245891059702,0.9999998541990172,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,vs_unedited,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,vs_max_degree,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,slem,16 32 64 128 256,,5,0.0062293434895399425,0.6955638535043872,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,transition_lambda2,16 32 64 128 256,,5,0.006229343489539543,0.6955638535043679,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,transition_lambda_min,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,spectral_gap,16 32 64 128 256,,5,-1.9989676730875654,0.999999883749921,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,absolute_spectral_gap,16 32 64 128 256,,5,-1.9989676730888948,0.9999998837499212,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,asymptotic_rate,16 32 64 128 256,,5,-2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,spectral_time,16 32 64 128 256,,5,2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,lambda2,16 32 64 128 256,,5,-1.9989676730838037,0.9999998837499219,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,delta_lambda2,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,setup_seconds,16 32 64 128 256,,5,0.43281809220449124,0.8540925918985364,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,spectrum_seconds,16 32 64 128 256,,5,1.8260310104755089,0.998622341321632,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,propagation_seconds,16 32 64 128 256,,5,3.142410285076564,0.9949605989686264,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,updates_per_second,16 32 64 128 256,,5,-0.38498597604752466,0.8715250383276819,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,mcmc_ess_per_second,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.05,all,,mcmc_rmse,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,steps,16 32 64 128 256,,5,2.002287768681228,0.9999995484193094,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,start_median,16 32 64 128 256,,5,2.002287768681228,0.9999995484193094,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,start_p90,16 32 64 128 256,,5,2.002287768681228,0.9999995484193094,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,observed_tv_log_decay,16 32 64 128 256,,5,-1.9984324725086928,0.9999999744954307,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,vs_unedited,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,vs_max_degree,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,slem,16 32 64 128 256,,5,0.0062293434895399425,0.6955638535043872,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,transition_lambda2,16 32 64 128 256,,5,0.006229343489539543,0.6955638535043679,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,transition_lambda_min,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,spectral_gap,16 32 64 128 256,,5,-1.9989676730875654,0.999999883749921,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,absolute_spectral_gap,16 32 64 128 256,,5,-1.9989676730888948,0.9999998837499212,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,asymptotic_rate,16 32 64 128 256,,5,-2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,spectral_time,16 32 64 128 256,,5,2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,lambda2,16 32 64 128 256,,5,-1.9989676730838037,0.9999998837499219,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,delta_lambda2,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,setup_seconds,16 32 64 128 256,,5,0.43281809220449124,0.8540925918985364,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,spectrum_seconds,16 32 64 128 256,,5,1.8260310104755089,0.998622341321632,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,propagation_seconds,16 32 64 128 256,,5,3.142410285076564,0.9949605989686264,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,updates_per_second,16 32 64 128 256,,5,-0.38498597604752466,0.8715250383276819,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,mcmc_ess_per_second,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,mcmc_rmse,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,steps,16 32 64 128 256,,5,1.9969722673569579,0.9999991872651326,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,start_median,16 32 64 128 256,,5,1.9969722673569579,0.9999991872651326,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,start_p90,16 32 64 128 256,,5,1.9969722673569579,0.9999991872651326,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,observed_tv_log_decay,16 32 64 128 256,,5,-1.9841188361946427,0.9999884708035104,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,vs_unedited,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,vs_max_degree,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,slem,16 32 64 128 256,,5,0.0062293434895399425,0.6955638535043872,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,transition_lambda2,16 32 64 128 256,,5,0.006229343489539543,0.6955638535043679,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,transition_lambda_min,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,spectral_gap,16 32 64 128 256,,5,-1.9989676730875654,0.999999883749921,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,absolute_spectral_gap,16 32 64 128 256,,5,-1.9989676730888948,0.9999998837499212,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,asymptotic_rate,16 32 64 128 256,,5,-2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,spectral_time,16 32 64 128 256,,5,2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,lambda2,16 32 64 128 256,,5,-1.9989676730838037,0.9999998837499219,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,delta_lambda2,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,setup_seconds,16 32 64 128 256,,5,0.6947708366882,0.9962650995394615,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,spectrum_seconds,16 32 64 128 256,,5,1.8093766474076611,0.999057634846896,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,propagation_seconds,16 32 64 128 256,,5,3.183656482865683,0.9925923966486621,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,updates_per_second,16 32 64 128 256,,5,-0.4262321738366438,0.7939069558084828,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,mcmc_ess_per_second,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,mcmc_rmse,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,steps,16 32 64 128 256,,5,2.0001173905832412,0.9999999982088601,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,start_median,16 32 64 128 256,,5,2.0001173905832412,0.9999999982088601,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,start_p90,16 32 64 128 256,,5,2.0001173905832412,0.9999999982088601,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,observed_tv_log_decay,16 32 64 128 256,,5,-1.9942658684033956,0.9999995054739075,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,vs_unedited,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,vs_max_degree,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,slem,16 32 64 128 256,,5,0.0062293434895399425,0.6955638535043872,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,transition_lambda2,16 32 64 128 256,,5,0.006229343489539543,0.6955638535043679,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,transition_lambda_min,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,spectral_gap,16 32 64 128 256,,5,-1.9989676730875654,0.999999883749921,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,absolute_spectral_gap,16 32 64 128 256,,5,-1.9989676730888948,0.9999998837499212,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,asymptotic_rate,16 32 64 128 256,,5,-2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,spectral_time,16 32 64 128 256,,5,2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,lambda2,16 32 64 128 256,,5,-1.9989676730838037,0.9999998837499219,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,delta_lambda2,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,setup_seconds,16 32 64 128 256,,5,0.6947708366882,0.9962650995394615,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,spectrum_seconds,16 32 64 128 256,,5,1.8093766474076611,0.999057634846896,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,propagation_seconds,16 32 64 128 256,,5,3.183656482865683,0.9925923966486621,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,updates_per_second,16 32 64 128 256,,5,-0.4262321738366438,0.7939069558084828,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,mcmc_ess_per_second,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,mcmc_rmse,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,steps,16 32 64 128 256,,5,1.999914604627232,0.9999999990518644,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,start_median,16 32 64 128 256,,5,1.999914604627232,0.9999999990518644,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,start_p90,16 32 64 128 256,,5,1.999914604627232,0.9999999990518644,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,observed_tv_log_decay,16 32 64 128 256,,5,-1.9961245891059702,0.9999998541990172,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,vs_unedited,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,vs_max_degree,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,slem,16 32 64 128 256,,5,0.0062293434895399425,0.6955638535043872,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,transition_lambda2,16 32 64 128 256,,5,0.006229343489539543,0.6955638535043679,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,transition_lambda_min,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,spectral_gap,16 32 64 128 256,,5,-1.9989676730875654,0.999999883749921,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,absolute_spectral_gap,16 32 64 128 256,,5,-1.9989676730888948,0.9999998837499212,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,asymptotic_rate,16 32 64 128 256,,5,-2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,spectral_time,16 32 64 128 256,,5,2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,lambda2,16 32 64 128 256,,5,-1.9989676730838037,0.9999998837499219,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,delta_lambda2,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,setup_seconds,16 32 64 128 256,,5,0.6947708366882,0.9962650995394615,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,spectrum_seconds,16 32 64 128 256,,5,1.8093766474076611,0.999057634846896,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,propagation_seconds,16 32 64 128 256,,5,3.183656482865683,0.9925923966486621,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,updates_per_second,16 32 64 128 256,,5,-0.4262321738366438,0.7939069558084828,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,mcmc_ess_per_second,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.05,all,,mcmc_rmse,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,steps,16 32 64 128 256,,5,2.002287768681228,0.9999995484193094,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,start_median,16 32 64 128 256,,5,2.002287768681228,0.9999995484193094,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,start_p90,16 32 64 128 256,,5,2.002287768681228,0.9999995484193094,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,observed_tv_log_decay,16 32 64 128 256,,5,-1.9984324725086928,0.9999999744954307,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,vs_unedited,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,vs_max_degree,16 32 64 128 256,,5,0.0,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,slem,16 32 64 128 256,,5,0.0062293434895399425,0.6955638535043872,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,transition_lambda2,16 32 64 128 256,,5,0.006229343489539543,0.6955638535043679,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,transition_lambda_min,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,spectral_gap,16 32 64 128 256,,5,-1.9989676730875654,0.999999883749921,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,absolute_spectral_gap,16 32 64 128 256,,5,-1.9989676730888948,0.9999998837499212,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,asymptotic_rate,16 32 64 128 256,,5,-2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,spectral_time,16 32 64 128 256,,5,2.0020776798301636,0.9999995284371528,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,lambda2,16 32 64 128 256,,5,-1.9989676730838037,0.9999998837499219,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,delta_lambda2,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,setup_seconds,16 32 64 128 256,,5,0.6947708366882,0.9962650995394615,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,spectrum_seconds,16 32 64 128 256,,5,1.8093766474076611,0.999057634846896,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,propagation_seconds,16 32 64 128 256,,5,3.183656482865683,0.9925923966486621,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,updates_per_second,16 32 64 128 256,,5,-0.4262321738366438,0.7939069558084828,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,mcmc_ess_per_second,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,mcmc_rmse,,16 32 64 128 256,0,,,
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,steps,16 32 64,,3,1.993530472146251,0.999999930542661,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,start_median,16 32 64,,3,1.993530472146251,0.999999930542661,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,start_p90,16 32 64,,3,1.993530472146251,0.999999930542661,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,observed_tv_log_decay,16 32 64,,3,-1.9723575499655626,0.9999914131927712,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,vs_unedited,16 32 64,,3,0.0,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,vs_max_degree,16 32 64,,3,0.0,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,slem,16 32 64,,3,0.013125963661136384,0.8922377732308938,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,transition_lambda2,16 32 64,,3,0.013125963661136384,0.8922377732308938,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,transition_lambda_min,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,spectral_gap,16 32 64,,3,-1.9978265768539747,0.999999857902478,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,absolute_spectral_gap,16 32 64,,3,-1.9978265768539747,0.999999857902478,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,asymptotic_rate,16 32 64,,3,-2.004378288445608,0.9999994234136507,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,spectral_time,16 32 64,,3,2.004378288445608,0.9999994234136507,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,lambda2,16 32 64,,3,-1.9978265849575607,0.9999998579338777,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,delta_lambda2,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,setup_seconds,16 32 64,,3,4.76225641368936,0.9999703785473573,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,spectrum_seconds,16 32 64,,3,1.4113720987642535,0.9912723576770752,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,propagation_seconds,16 32 64,,3,1.9048443912898159,0.983436427410735,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,updates_per_second,16 32 64,,3,0.4876169594916147,0.9556818964972617,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,mcmc_ess_per_second,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,mcmc_rmse,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,steps,16 32 64,,3,2.0000000000000004,0.9999999999999999,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,start_median,16 32 64,,3,2.0000000000000004,0.9999999999999999,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,start_p90,16 32 64,,3,2.0000000000000004,0.9999999999999999,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,observed_tv_log_decay,16 32 64,,3,-1.9918165300905954,0.9999999322788595,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,vs_unedited,16 32 64,,3,0.0,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,vs_max_degree,16 32 64,,3,0.0,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,slem,16 32 64,,3,0.013125963661136384,0.8922377732308938,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,transition_lambda2,16 32 64,,3,0.013125963661136384,0.8922377732308938,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,transition_lambda_min,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,spectral_gap,16 32 64,,3,-1.9978265768539747,0.999999857902478,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,absolute_spectral_gap,16 32 64,,3,-1.9978265768539747,0.999999857902478,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,asymptotic_rate,16 32 64,,3,-2.004378288445608,0.9999994234136507,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,spectral_time,16 32 64,,3,2.004378288445608,0.9999994234136507,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,lambda2,16 32 64,,3,-1.9978265849575607,0.9999998579338777,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,delta_lambda2,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,setup_seconds,16 32 64,,3,4.76225641368936,0.9999703785473573,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,spectrum_seconds,16 32 64,,3,1.4113720987642535,0.9912723576770752,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,propagation_seconds,16 32 64,,3,1.9048443912898159,0.983436427410735,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,updates_per_second,16 32 64,,3,0.4876169594916147,0.9556818964972617,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,mcmc_ess_per_second,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,mcmc_rmse,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,steps,16 32 64,,3,2.0000000000000004,0.9999999999999999,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,start_median,16 32 64,,3,1.9994874972996184,0.9999999781005268,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,start_p90,16 32 64,,3,2.0000000000000004,0.9999999999999999,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,observed_tv_log_decay,16 32 64,,3,-1.9948586088546323,0.9999999998774751,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,vs_unedited,16 32 64,,3,0.0,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,vs_max_degree,16 32 64,,3,0.0,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,slem,16 32 64,,3,0.013125963661136384,0.8922377732308938,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,transition_lambda2,16 32 64,,3,0.013125963661136384,0.8922377732308938,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,transition_lambda_min,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,spectral_gap,16 32 64,,3,-1.9978265768539747,0.999999857902478,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,absolute_spectral_gap,16 32 64,,3,-1.9978265768539747,0.999999857902478,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,asymptotic_rate,16 32 64,,3,-2.004378288445608,0.9999994234136507,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,spectral_time,16 32 64,,3,2.004378288445608,0.9999994234136507,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,lambda2,16 32 64,,3,-1.9978265849575607,0.9999998579338777,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,delta_lambda2,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,setup_seconds,16 32 64,,3,4.76225641368936,0.9999703785473573,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,spectrum_seconds,16 32 64,,3,1.4113720987642535,0.9912723576770752,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,propagation_seconds,16 32 64,,3,1.9048443912898159,0.983436427410735,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,updates_per_second,16 32 64,,3,0.4876169594916147,0.9556818964972617,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,mcmc_ess_per_second,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.05,all,,mcmc_rmse,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,steps,16 32 64,,3,2.004619999911901,0.99999963214657,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,start_median,16 32 64,,3,2.004619999911901,0.99999963214657,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,start_p90,16 32 64,,3,2.004619999911901,0.99999963214657,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,observed_tv_log_decay,16 32 64,,3,-1.9986204354162582,0.9999999021608129,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,vs_unedited,16 32 64,,3,0.0,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,vs_max_degree,16 32 64,,3,0.0,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,slem,16 32 64,,3,0.013125963661136384,0.8922377732308938,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,transition_lambda2,16 32 64,,3,0.013125963661136384,0.8922377732308938,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,transition_lambda_min,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,spectral_gap,16 32 64,,3,-1.9978265768539747,0.999999857902478,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,absolute_spectral_gap,16 32 64,,3,-1.9978265768539747,0.999999857902478,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,asymptotic_rate,16 32 64,,3,-2.004378288445608,0.9999994234136507,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,spectral_time,16 32 64,,3,2.004378288445608,0.9999994234136507,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,lambda2,16 32 64,,3,-1.9978265849575607,0.9999998579338777,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,delta_lambda2,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,setup_seconds,16 32 64,,3,4.76225641368936,0.9999703785473573,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,spectrum_seconds,16 32 64,,3,1.4113720987642535,0.9912723576770752,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,propagation_seconds,16 32 64,,3,1.9048443912898159,0.983436427410735,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,updates_per_second,16 32 64,,3,0.4876169594916147,0.9556818964972617,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,mcmc_ess_per_second,,16 32 64,0,,,128 256
+scaling,4,Reversible paths,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,mcmc_rmse,,16 32 64,0,,,128 256

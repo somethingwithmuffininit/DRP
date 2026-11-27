@@ -1,0 +1,36 @@
+Internal ctest changing into directory: /u/lmckelve/Notes_Local/DRP/MixBench/build
+Test project /u/lmckelve/Notes_Local/DRP/MixBench/build
+      Start 10: power_grid
+      Start 15: plots
+      Start 13: real_networks
+      Start 12: dhn
+ 1/15 Test #12: dhn ..............................   Passed    0.79 sec
+      Start 14: edge_policies
+ 2/15 Test #14: edge_policies ....................   Passed    0.71 sec
+      Start  9: budget_repetitions
+ 3/15 Test  #9: budget_repetitions ...............   Passed    0.62 sec
+      Start 11: dana_parity
+ 4/15 Test #11: dana_parity ......................   Passed    0.53 sec
+      Start  6: studies_wall_budget
+ 5/15 Test  #6: studies_wall_budget ..............   Passed    0.17 sec
+      Start  8: bridges
+ 6/15 Test  #8: bridges ..........................   Passed    0.17 sec
+      Start  5: studies_nested_networks
+ 7/15 Test  #5: studies_nested_networks ..........   Passed    0.17 sec
+      Start  2: cli
+ 8/15 Test  #2: cli ..............................   Passed    0.13 sec
+      Start  7: riffle
+ 9/15 Test  #7: riffle ...........................   Passed    0.10 sec
+      Start  4: studies_path_oracle
+10/15 Test  #4: studies_path_oracle ..............   Passed    0.07 sec
+      Start  3: studies_edge_ranking
+11/15 Test  #3: studies_edge_ranking .............   Passed    0.08 sec
+      Start  1: core
+12/15 Test  #1: core .............................   Passed    0.05 sec
+13/15 Test #13: real_networks ....................   Passed    7.32 sec
+14/15 Test #15: plots ............................   Passed   10.67 sec
+15/15 Test #10: power_grid .......................   Passed   15.56 sec
+
+100% tests passed, 0 tests failed out of 15
+
+Total Test time (real) =  15.56 sec

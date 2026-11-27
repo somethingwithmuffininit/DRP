@@ -1,0 +1,17 @@
+Suite,What it checks,Result,Seconds
+core,"Checks known transition probabilities and eigenvalues, and compares ring and lifted-path crossings with independent calculations.",Passed,0.044
+cli,"Checks that serial and parallel runs agree, verifies dataset checksums, and checks periodic and size-limit records.",Passed,0.151
+studies_edge_ranking,"Checks missing-link ranks, equal winners, and when the connectivity and mixing objectives agree.",Passed,0.141
+studies_path_oracle,Checks the analytic path eigenvalues and confirms that both walks start at the same physical endpoint.,Passed,0.131
+studies_nested_networks,Checks that each larger graph keeps the smaller sample and every original link between the selected vertices.,Passed,0.152
+studies_wall_budget,"Checks matched starts, deadline observations, and the error summaries for timed estimates.",Passed,0.153
+riffle,Checks exact shuffle counts against explicit small decks and the 52-card reference values.,Passed,0.16
+bridges,"Checks disjoint bridge placement, probability sums, and a known eigenvalue on the two-group graph.",Passed,0.128
+budget_repetitions,"Checks that the serial and partitioned timed schedules use the same graphs, seeds, chosen edges and trial order.",Passed,0.587
+link_policy_trials,"Replays fixed graphs and verifies the selected links, matched starts, connectivity and crossings against archived trials.",Passed,6.643
+power_grid,Checks sparse power-grid probability propagation against an independent calculation.,Passed,19.571
+dana_parity,Checks lifted-path matrices and finite-size probability curves against Dana's Python implementation.,Passed,0.49
+dhn,"Checks heading changes, position-only and full-state distances, and seeded sampling on the lifted path.",Passed,0.697
+real_networks,"Checks Glasgow and karate-club walks by dense propagation, including the optimized transition weights.",Passed,6.503
+edge_policies,Checks whether chosen links are eligible and whether exhaustive search reaches the best connectivity score.,Passed,0.858
+plots,"Checks tables and figures for matched and mismatched starts, unreachable thresholds, and an immediate crossing.",Passed,12.408

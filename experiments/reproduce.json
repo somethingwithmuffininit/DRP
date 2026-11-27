@@ -1,0 +1,45 @@
+{
+  "studies": [
+    {
+      "name": "Danielle K2,3",
+      "graph": {
+        "family": "bipartite",
+        "sizes": [
+          5
+        ],
+        "split": 2
+      },
+      "methods": [
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        }
+      ]
+    },
+    {
+      "name": "Caroline placement",
+      "graph": {
+        "family": "cycle",
+        "sizes": [
+          32
+        ]
+      },
+      "methods": [
+        "clockwise"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "all",
+          "candidates": "anchored"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+experiment,jobs,study,graph_definition,cycle_parity,method,policy,dhn_c,space,epsilon,scope,sample_count,metric,sizes_used,unavailable_or_nonpositive_sizes,size_count,exponent,log_r_squared,skipped_sizes
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,steps,10 20 50 100,,4,1.0420871408006742,0.9996810091528376,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,start_median,10 20 50 100,,4,1.0420871408006742,0.9996810091528376,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,start_p90,10 20 50 100,,4,1.0420871408006742,0.9996810091528376,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,observed_tv_log_decay,10 20 50 100,,4,-1.0445167325960112,0.9997644480215336,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,vs_max_degree,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,slem,10 20 50 100,,4,0.04285807547120206,0.901189278992248,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,transition_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,spectral_gap,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,absolute_spectral_gap,10 20 50 100,,4,-1.020806748403081,0.9999563499603035,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,asymptotic_rate,10 20 50 100,,4,-1.042028274195243,0.9998265960337342,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,spectral_time,10 20 50 100,,4,1.042028274195243,0.9998265960337342,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,setup_seconds,10 20 50 100,,4,0.12038085217338075,0.06480466369365344,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,spectrum_seconds,10 20 50 100,,4,0.3047661321180188,0.26119476817754855,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,propagation_seconds,10 20 50 100,,4,1.8072716690224806,0.9818226017698299,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,updates_per_second,10 20 50 100,,4,-0.8072716690224803,0.9150880098434495,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.25,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,steps,10 20 50 100,,4,1.0711735432924971,0.9995979424125072,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,start_median,10 20 50 100,,4,1.0711735432924971,0.9995979424125072,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,start_p90,10 20 50 100,,4,1.0711735432924971,0.9995979424125072,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,observed_tv_log_decay,10 20 50 100,,4,-1.0741782383321854,0.9994040693967255,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,vs_max_degree,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,slem,10 20 50 100,,4,0.04285807547120206,0.901189278992248,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,transition_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,spectral_gap,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,absolute_spectral_gap,10 20 50 100,,4,-1.020806748403081,0.9999563499603035,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,asymptotic_rate,10 20 50 100,,4,-1.042028274195243,0.9998265960337342,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,spectral_time,10 20 50 100,,4,1.042028274195243,0.9998265960337342,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,setup_seconds,10 20 50 100,,4,0.12038085217338075,0.06480466369365344,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,spectrum_seconds,10 20 50 100,,4,0.3047661321180188,0.26119476817754855,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,propagation_seconds,10 20 50 100,,4,1.8072716690224806,0.9818226017698299,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,updates_per_second,10 20 50 100,,4,-0.8072716690224803,0.9150880098434495,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.1,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,steps,10 20 50 100,,4,1.06029900973579,0.9995026718326727,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,start_median,10 20 50 100,,4,1.06029900973579,0.9995026718326727,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,start_p90,10 20 50 100,,4,1.06029900973579,0.9995026718326727,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,observed_tv_log_decay,10 20 50 100,,4,-1.056177000396125,0.9995028665195371,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,vs_max_degree,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,slem,10 20 50 100,,4,0.04285807547120206,0.901189278992248,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,transition_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,spectral_gap,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,absolute_spectral_gap,10 20 50 100,,4,-1.020806748403081,0.9999563499603035,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,asymptotic_rate,10 20 50 100,,4,-1.042028274195243,0.9998265960337342,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,spectral_time,10 20 50 100,,4,1.042028274195243,0.9998265960337342,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,setup_seconds,10 20 50 100,,4,0.12038085217338075,0.06480466369365344,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,spectrum_seconds,10 20 50 100,,4,0.3047661321180188,0.26119476817754855,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,propagation_seconds,10 20 50 100,,4,1.8072716690224806,0.9818226017698299,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,updates_per_second,10 20 50 100,,4,-0.8072716690224803,0.9150880098434495,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,full,0.01,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.25,all,,steps,10 20 50 100,,4,1.0358792307206,0.9999267130395817,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.25,all,,start_median,10 20 50 100,,4,1.0358792307206,0.9999267130395817,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.25,all,,start_p90,10 20 50 100,,4,1.0358792307206,0.9999267130395817,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.25,all,,observed_tv_log_decay,10 20 50 100,,4,-1.0147620499642163,0.9999765926956501,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.25,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.25,all,,vs_max_degree,10 20 50 100,,4,0.9634114757460243,0.9999070139698442,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.1,all,,steps,10 20 50 100,,4,1.0723404848384757,0.9990978617398286,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.1,all,,start_median,10 20 50 100,,4,1.0723404848384757,0.9990978617398286,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.1,all,,start_p90,10 20 50 100,,4,1.0723404848384757,0.9990978617398286,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.1,all,,observed_tv_log_decay,10 20 50 100,,4,-1.0687774360160245,0.9987192778572552,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.1,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.1,all,,vs_max_degree,10 20 50 100,,4,0.9326125222554923,0.9990905702602602,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.01,all,,steps,10 20 50 100,,4,1.0620063315759694,0.9990591762638242,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.01,all,,start_median,10 20 50 100,,4,1.0620063315759694,0.9990591762638242,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.01,all,,start_p90,10 20 50 100,,4,1.0620063315759694,0.9990591762638242,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.01,all,,observed_tv_log_decay,10 20 50 100,,4,-1.0562849149834355,0.9992904945473234,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.01,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,dhn,none,1.0,position,0.01,all,,vs_max_degree,10 20 50 100,,4,0.9434102649698916,0.9990574267599184,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,steps,10 20 50 100,,4,1.9992907064666243,0.9999998771133125,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,start_median,10 20 50 100,,4,1.9992907064666243,0.9999998771133125,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,start_p90,10 20 50 100,,4,1.9992907064666243,0.9999998771133125,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,observed_tv_log_decay,10 20 50 100,,4,-1.9801661312618204,0.9999970054709806,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,vs_max_degree,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,slem,10 20 50 100,,4,0.02018282872352475,0.7729377252320577,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,transition_lambda2,10 20 50 100,,4,0.02018282872352485,0.7729377252320682,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,spectral_gap,10 20 50 100,,4,-1.9966869261460163,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,absolute_spectral_gap,10 20 50 100,,4,-1.996686926146008,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,asymptotic_rate,10 20 50 100,,4,-2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,spectral_time,10 20 50 100,,4,2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,setup_seconds,10 20 50 100,,4,0.2700080843923564,0.23143385730060045,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,spectrum_seconds,10 20 50 100,,4,1.530623766921544,0.9881120556073629,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,propagation_seconds,10 20 50 100,,4,2.774119527229805,0.9539748392766833,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,updates_per_second,10 20 50 100,,4,-0.5012828986948933,0.7728739766791606,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.25,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,steps,10 20 50 100,,4,2.0049530070939676,0.9999954282200397,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,start_median,10 20 50 100,,4,2.0049530070939676,0.9999954282200397,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,start_p90,10 20 50 100,,4,2.0049530070939676,0.9999954282200397,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,observed_tv_log_decay,10 20 50 100,,4,-1.994433597043992,0.9999993520832147,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,vs_max_degree,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,slem,10 20 50 100,,4,0.02018282872352475,0.7729377252320577,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,transition_lambda2,10 20 50 100,,4,0.02018282872352485,0.7729377252320682,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,spectral_gap,10 20 50 100,,4,-1.9966869261460163,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,absolute_spectral_gap,10 20 50 100,,4,-1.996686926146008,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,asymptotic_rate,10 20 50 100,,4,-2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,spectral_time,10 20 50 100,,4,2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,setup_seconds,10 20 50 100,,4,0.2700080843923564,0.23143385730060045,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,spectrum_seconds,10 20 50 100,,4,1.530623766921544,0.9881120556073629,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,propagation_seconds,10 20 50 100,,4,2.774119527229805,0.9539748392766833,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,updates_per_second,10 20 50 100,,4,-0.5012828986948933,0.7728739766791606,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.1,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,steps,10 20 50 100,,4,2.0054165965458606,0.9999967361661501,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,start_median,10 20 50 100,,4,2.0054165965458606,0.9999967361661501,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,start_p90,10 20 50 100,,4,2.0054165965458606,0.9999967361661501,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,observed_tv_log_decay,10 20 50 100,,4,-2.0007492170101924,0.9999984313127556,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,vs_max_degree,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,slem,10 20 50 100,,4,0.02018282872352475,0.7729377252320577,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,transition_lambda2,10 20 50 100,,4,0.02018282872352485,0.7729377252320682,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,spectral_gap,10 20 50 100,,4,-1.9966869261460163,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,absolute_spectral_gap,10 20 50 100,,4,-1.996686926146008,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,asymptotic_rate,10 20 50 100,,4,-2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,spectral_time,10 20 50 100,,4,2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,setup_seconds,10 20 50 100,,4,0.2700080843923564,0.23143385730060045,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,spectrum_seconds,10 20 50 100,,4,1.530623766921544,0.9881120556073629,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,propagation_seconds,10 20 50 100,,4,2.774119527229805,0.9539748392766833,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,updates_per_second,10 20 50 100,,4,-0.5012828986948933,0.7728739766791606,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,max_degree,none,,full,0.01,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,steps,10 20 50 100,,4,1.9992907064666243,0.9999998771133125,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,start_median,10 20 50 100,,4,1.9992907064666243,0.9999998771133125,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,start_p90,10 20 50 100,,4,1.9992907064666243,0.9999998771133125,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,observed_tv_log_decay,10 20 50 100,,4,-1.9801661312618204,0.9999970054709806,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,vs_max_degree,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,slem,10 20 50 100,,4,0.02018282872352475,0.7729377252320577,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,transition_lambda2,10 20 50 100,,4,0.02018282872352485,0.7729377252320682,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,spectral_gap,10 20 50 100,,4,-1.9966869261460163,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,absolute_spectral_gap,10 20 50 100,,4,-1.996686926146008,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,asymptotic_rate,10 20 50 100,,4,-2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,spectral_time,10 20 50 100,,4,2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,setup_seconds,10 20 50 100,,4,0.2583158147129495,0.3731055524289429,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,spectrum_seconds,10 20 50 100,,4,1.8251068991430694,0.9859815907622201,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,propagation_seconds,10 20 50 100,,4,2.9140213631606153,0.9802347018320885,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,updates_per_second,10 20 50 100,,4,-0.6411847346257034,0.9095189768751395,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.25,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,steps,10 20 50 100,,4,2.0049530070939676,0.9999954282200397,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,start_median,10 20 50 100,,4,2.0049530070939676,0.9999954282200397,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,start_p90,10 20 50 100,,4,2.0049530070939676,0.9999954282200397,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,observed_tv_log_decay,10 20 50 100,,4,-1.994433597043992,0.9999993520832147,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,vs_max_degree,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,slem,10 20 50 100,,4,0.02018282872352475,0.7729377252320577,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,transition_lambda2,10 20 50 100,,4,0.02018282872352485,0.7729377252320682,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,spectral_gap,10 20 50 100,,4,-1.9966869261460163,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,absolute_spectral_gap,10 20 50 100,,4,-1.996686926146008,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,asymptotic_rate,10 20 50 100,,4,-2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,spectral_time,10 20 50 100,,4,2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,setup_seconds,10 20 50 100,,4,0.2583158147129495,0.3731055524289429,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,spectrum_seconds,10 20 50 100,,4,1.8251068991430694,0.9859815907622201,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,propagation_seconds,10 20 50 100,,4,2.9140213631606153,0.9802347018320885,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,updates_per_second,10 20 50 100,,4,-0.6411847346257034,0.9095189768751395,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.1,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,steps,10 20 50 100,,4,2.0054165965458606,0.9999967361661501,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,start_median,10 20 50 100,,4,2.0054165965458606,0.9999967361661501,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,start_p90,10 20 50 100,,4,2.0054165965458606,0.9999967361661501,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,observed_tv_log_decay,10 20 50 100,,4,-2.0007492170101924,0.9999984313127556,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,vs_unedited,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,vs_max_degree,10 20 50 100,,4,0.0,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,slem,10 20 50 100,,4,0.02018282872352475,0.7729377252320577,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,transition_lambda2,10 20 50 100,,4,0.02018282872352485,0.7729377252320682,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,transition_lambda_min,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,spectral_gap,10 20 50 100,,4,-1.9966869261460163,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,absolute_spectral_gap,10 20 50 100,,4,-1.996686926146008,0.9999992013997099,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,asymptotic_rate,10 20 50 100,,4,-2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,spectral_time,10 20 50 100,,4,2.006738076385321,0.9999966837748385,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,lambda2,10 20 50 100,,4,-1.9966869261445475,0.9999992013997104,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,delta_lambda2,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,setup_seconds,10 20 50 100,,4,0.2583158147129495,0.3731055524289429,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,spectrum_seconds,10 20 50 100,,4,1.8251068991430694,0.9859815907622201,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,propagation_seconds,10 20 50 100,,4,2.9140213631606153,0.9802347018320885,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,updates_per_second,10 20 50 100,,4,-0.6411847346257034,0.9095189768751395,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,mcmc_ess_per_second,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,metropolis,none,,full,0.01,all,,mcmc_rmse,,10 20 50 100,0,,,
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,steps,10 20 50,,3,1.9986387528326766,0.9999998951896618,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,start_median,10 20 50,,3,1.9986387528326766,0.9999998951896618,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,start_p90,10 20 50,,3,1.9986387528326766,0.9999998951896618,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,observed_tv_log_decay,10 20 50,,3,-1.9761901135039135,0.9999999503623124,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,vs_unedited,10 20 50,,3,0.0,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,vs_max_degree,10 20 50,,3,0.0,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,slem,10 20 50,,3,0.028980473030677252,0.8506726930501991,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,transition_lambda2,10 20 50,,3,0.028980473030677252,0.8506726930501991,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,transition_lambda_min,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,spectral_gap,10 20 50,,3,-1.995248041461705,0.9999990195261984,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,absolute_spectral_gap,10 20 50,,3,-1.995248041461705,0.9999990195261984,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,asymptotic_rate,10 20 50,,3,-2.0096762343886123,0.9999959241278192,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,spectral_time,10 20 50,,3,2.0096762343886123,0.9999959241278192,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,lambda2,10 20 50,,3,-1.995248086541822,0.9999990194626626,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,delta_lambda2,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,setup_seconds,10 20 50,,3,4.935203194376892,0.995953800260201,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,spectrum_seconds,10 20 50,,3,1.6809103150716165,0.9999958720716551,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,propagation_seconds,10 20 50,,3,1.8298296552468767,0.9999620133876576,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,updates_per_second,10 20 50,,3,0.09803007544420675,0.04945689935663875,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,mcmc_ess_per_second,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.25,all,,mcmc_rmse,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,steps,10 20 50,,3,2.007559519509955,0.9999921864250629,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,start_median,10 20 50,,3,2.007559519509955,0.9999921864250629,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,start_p90,10 20 50,,3,2.007559519509955,0.9999921864250629,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,observed_tv_log_decay,10 20 50,,3,-1.994771755701742,0.9999985240446319,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,vs_unedited,10 20 50,,3,0.0,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,vs_max_degree,10 20 50,,3,0.0,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,slem,10 20 50,,3,0.028980473030677252,0.8506726930501991,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,transition_lambda2,10 20 50,,3,0.028980473030677252,0.8506726930501991,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,transition_lambda_min,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,spectral_gap,10 20 50,,3,-1.995248041461705,0.9999990195261984,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,absolute_spectral_gap,10 20 50,,3,-1.995248041461705,0.9999990195261984,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,asymptotic_rate,10 20 50,,3,-2.0096762343886123,0.9999959241278192,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,spectral_time,10 20 50,,3,2.0096762343886123,0.9999959241278192,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,lambda2,10 20 50,,3,-1.995248086541822,0.9999990194626626,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,delta_lambda2,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,setup_seconds,10 20 50,,3,4.935203194376892,0.995953800260201,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,spectrum_seconds,10 20 50,,3,1.6809103150716165,0.9999958720716551,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,propagation_seconds,10 20 50,,3,1.8298296552468767,0.9999620133876576,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,updates_per_second,10 20 50,,3,0.09803007544420675,0.04945689935663875,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,mcmc_ess_per_second,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.1,all,,mcmc_rmse,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,steps,10 20 50,,3,2.007974209613807,0.9999951493552995,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,start_median,10 20 50,,3,2.007974209613807,0.9999951493552995,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,start_p90,10 20 50,,3,2.007974209613807,0.9999951493552995,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,observed_tv_log_decay,10 20 50,,3,-2.002414368344933,0.9999975119667287,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,vs_unedited,10 20 50,,3,0.0,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,vs_max_degree,10 20 50,,3,0.0,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,slem,10 20 50,,3,0.028980473030677252,0.8506726930501991,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,transition_lambda2,10 20 50,,3,0.028980473030677252,0.8506726930501991,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,transition_lambda_min,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,spectral_gap,10 20 50,,3,-1.995248041461705,0.9999990195261984,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,absolute_spectral_gap,10 20 50,,3,-1.995248041461705,0.9999990195261984,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,asymptotic_rate,10 20 50,,3,-2.0096762343886123,0.9999959241278192,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,spectral_time,10 20 50,,3,2.0096762343886123,0.9999959241278192,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,lambda2,10 20 50,,3,-1.995248086541822,0.9999990194626626,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,delta_lambda2,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,setup_seconds,10 20 50,,3,4.935203194376892,0.995953800260201,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,spectrum_seconds,10 20 50,,3,1.6809103150716165,0.9999958720716551,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,propagation_seconds,10 20 50,,3,1.8298296552468767,0.9999620133876576,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,updates_per_second,10 20 50,,3,0.09803007544420675,0.04945689935663875,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,mcmc_ess_per_second,,10 20 50,0,,,100
+path-comparison,4,Path method comparison,"{""family"":""path""}",,fmmc,none,,full,0.01,all,,mcmc_rmse,,10 20 50,0,,,100

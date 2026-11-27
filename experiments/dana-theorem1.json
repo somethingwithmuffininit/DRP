@@ -1,0 +1,13 @@
+{
+  "epsilons": [0.25, 0.1, 0.01],
+  "max_steps": 1200,
+  "stride": 1,
+  "diagnostic_start": 0,
+  "snapshots": [0, 100, 400, 1200],
+  "studies": [{
+    "name": "Dana Theorem 1",
+    "graph": {"family": "path", "sizes": [100]},
+    "methods": ["dhn"],
+    "policies": [{"policy": "none"}]
+  }]
+}

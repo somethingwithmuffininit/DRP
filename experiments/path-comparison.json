@@ -1,0 +1,11 @@
+{
+  "epsilons": [0.25, 0.1, 0.01],
+  "max_steps": 10000,
+  "stride": 50,
+  "studies": [{
+    "name": "Path method comparison",
+    "graph": {"family": "path", "sizes": [10, 20, 50, 100]},
+    "methods": ["dhn", "max_degree", "metropolis", "fmmc"],
+    "policies": [{"policy": "none"}]
+  }]
+}

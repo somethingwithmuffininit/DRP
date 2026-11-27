@@ -1,0 +1,26 @@
+{
+  "max_steps": 40000,
+  "stride": 50,
+  "snapshots": [
+    0,
+    100
+  ],
+  "studies": [
+    {
+      "name": "Western States power grid",
+      "graph": {
+        "dataset": "../data/power.json"
+      },
+      "methods": [
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        }
+      ]
+    }
+  ]
+}

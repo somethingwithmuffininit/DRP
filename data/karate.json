@@ -1,0 +1,11 @@
+{
+  "vertices": 34,
+  "edges": "karate.edges",
+  "edge_count": 78,
+  "sha256": "2095f3a8d35c292020188d1a0fd641effd209a09bc854973d8d6425604f91f6c",
+  "url": "https://public.websites.umich.edu/~mejn/netdata/karate.zip",
+  "archive_sha256": "e182d7fabbd44f3c75d307c1cf5259f0c4506954d63c37b9f30e629c78c578f6",
+  "citation": "The file karate.gml contains the network of friendships between the 34\nmembers of a karate club at a US university, as described by Wayne Zachary\nin 1977.  If you use these data in your work, please cite W. W. Zachary, An\ninformation flow model for conflict and fission in small groups, Journal of\nAnthropological Research 33, 452-473 (1977).",
+  "mapping": "Original GML ID = internal ID + 1",
+  "preprocessing": "Simple undirected support, endpoints sorted, all source vertices and edges retained."
+}

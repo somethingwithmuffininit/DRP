@@ -1,0 +1,12 @@
+study,vertices,method,policy,space,epsilon,scope,trials,scored,paired_crossings,mean_normalized_gain,mean_steps_saved,slower_trials
+Dense random graphs,100,max_degree,random,full,0.25,sampled,10,10,10,0.03736947989017868,0.0,0
+Dense random graphs,100,max_degree,min_degree,full,0.25,sampled,10,10,10,0.39627715966511146,0.0,0
+Dense random graphs,100,max_degree,fiedler,full,0.25,sampled,10,10,10,0.5098050104707902,0.0,0
+Dense random graphs,100,max_degree,optimal_connectivity,full,0.25,sampled,10,10,10,0.5369173179183899,0.0,0
+Preferential attachment graphs,100,max_degree,random,full,0.25,sampled,10,10,10,0.014082789722779399,0.1,0
+Preferential attachment graphs,100,max_degree,min_degree,full,0.25,sampled,10,10,10,0.32027537232247055,0.1,0
+Preferential attachment graphs,100,max_degree,fiedler,full,0.25,sampled,10,10,10,0.8249216160505662,0.5,0
+Preferential attachment graphs,100,max_degree,optimal_connectivity,full,0.25,sampled,10,10,10,0.9060687484621521,0.4,0
+Binary tree,255,max_degree,random,full,0.25,sampled,20,20,20,0.14991914290745595,-117.75,15
+Binary tree,255,max_degree,min_degree,full,0.25,sampled,20,20,20,0.11706753566105803,-95.5,12
+Binary tree,255,max_degree,fiedler,full,0.25,sampled,20,20,20,0.24161835578001475,16.0,0

@@ -1,0 +1,17 @@
+{
+  "reports": ["nested-networks"],
+  "seed": 42, "epsilons": [0.25, 0.1], "max_steps": 20000, "all_starts_limit": 256,
+  "studies": [
+    {
+      "name": "Glasgow consecutive stations",
+      "graph": {"dataset": "../data/glasgow.json", "subgraph": "section", "sizes": [4, 6, 8, 10, 12, 14]},
+      "replicates": 4, "methods": ["dhn", "max_degree", "metropolis", "fmmc"], "policies": [{"policy": "none"}]
+    },
+    {
+      "name": "Western power grid nested subgraphs",
+      "graph": {"dataset": "../data/power.json", "subgraph": "connected", "sizes": [12, 24, 48, 96]},
+      "replicates": 6, "methods": ["max_degree", "metropolis", "fmmc"],
+      "policies": [{"policy": "none"}, {"policy": "random", "samples": 4}, {"policy": "min_degree", "samples": 4}, {"policy": "fiedler"}]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "reports": ["edge-ranking"],
+  "epsilons": [0.25, 0.1],
+  "max_steps": 3000,
+  "snapshots": [
+    0
+  ],
+  "studies": [
+    {
+      "name": "Cycle chords",
+      "graph": {
+        "family": "cycle",
+        "sizes": [
+          12
+        ]
+      },
+      "methods": [
+        "clockwise"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "all"
+        },
+        {
+          "policy": "random",
+          "samples": 6
+        },
+        {
+          "policy": "min_degree",
+          "samples": 6
+        },
+        {
+          "policy": "fiedler"
+        },
+        {
+          "policy": "optimal_connectivity"
+        }
+      ]
+    },
+    {
+      "name": "Two communities",
+      "graph": {
+        "family": "barbell",
+        "sizes": [
+          12
+        ]
+      },
+      "methods": [
+        "max_degree"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "all"
+        },
+        {
+          "policy": "random",
+          "samples": 6
+        },
+        {
+          "policy": "min_degree",
+          "samples": 6
+        },
+        {
+          "policy": "fiedler"
+        },
+        {
+          "policy": "optimal_connectivity"
+        }
+      ]
+    },
+    {
+      "name": "Karate club",
+      "graph": {
+        "dataset": "../data/karate.json"
+      },
+      "methods": [
+        "max_degree"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "all"
+        },
+        {
+          "policy": "random",
+          "samples": 6
+        },
+        {
+          "policy": "min_degree",
+          "samples": 6
+        },
+        {
+          "policy": "fiedler"
+        },
+        {
+          "policy": "optimal_connectivity"
+        }
+      ]
+    }
+  ]
+}

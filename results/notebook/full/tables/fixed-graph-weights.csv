@@ -1,0 +1,7 @@
+Graph,Weight rule,Slowest start (steps),Median start (steps)
+"Danielle K2,3",Maximum degree,3,2.0
+"Danielle K2,3",Metropolis,3,2.0
+"Danielle K2,3",Optimized weights,2,2.0
+Karate club,Maximum degree,48,21.0
+Karate club,Metropolis,35,15.0
+Karate club,Optimized weights,26,21.5

@@ -1,0 +1,14 @@
+Erdos-Renyi G_p(N), N=100, p=0.6
+  random           mean mu* = 0.009
+  min-degree (S1)  mean mu* = 0.500
+  Fiedler (S2)     mean mu* = 0.616
+  optimal          mean mu* = 0.687
+Barabasi-Albert, N=100, m=3
+  random           mean mu* = 0.092
+  min-degree (S1)  mean mu* = 0.144
+  Fiedler (S2)     mean mu* = 0.708
+  optimal          mean mu* = 0.804
+Binary tree, depth 7 (N=255), no optimal search
+  random           mean mu* = 0.121
+  min-degree (S1)  mean mu* = 0.101
+  Fiedler (S2)     mean mu* = 0.242

@@ -1,0 +1,5 @@
+Walk,Original (steps),With shortcut (steps)
+Clockwise,43,20
+Maximum degree,43,16
+Metropolis,43,21
+Optimized weights,14,16

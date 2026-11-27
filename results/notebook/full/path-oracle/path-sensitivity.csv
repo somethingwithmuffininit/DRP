@@ -1,0 +1,21 @@
+study,method,epsilon,dropped_smallest,sizes,exponent
+Matched endpoint on paths,dhn,0.25,0,"[8, 16, 32, 64, 128, 256, 512]",1.0236060741208046
+Matched endpoint on paths,dhn,0.25,1,"[16, 32, 64, 128, 256, 512]",1.0097503836404642
+Matched endpoint on paths,dhn,0.25,2,"[32, 64, 128, 256, 512]",1.009280392328353
+Matched endpoint on paths,dhn,0.25,3,"[64, 128, 256, 512]",1.0029952265717865
+Matched endpoint on paths,dhn,0.25,4,"[128, 256, 512]",1.0009956489095453
+Matched endpoint on paths,dhn,0.1,0,"[8, 16, 32, 64, 128, 256, 512]",1.0386492971180494
+Matched endpoint on paths,dhn,0.1,1,"[16, 32, 64, 128, 256, 512]",1.023321334511599
+Matched endpoint on paths,dhn,0.1,2,"[32, 64, 128, 256, 512]",1.0121915439435483
+Matched endpoint on paths,dhn,0.1,3,"[64, 128, 256, 512]",1.007226679325588
+Matched endpoint on paths,dhn,0.1,4,"[128, 256, 512]",1.0041270506063278
+Matched endpoint on paths,max_degree,0.25,0,"[8, 16, 32, 64, 128, 256, 512]",2.0007568511685325
+Matched endpoint on paths,max_degree,0.25,1,"[16, 32, 64, 128, 256, 512]",1.9977678585126466
+Matched endpoint on paths,max_degree,0.25,2,"[32, 64, 128, 256, 512]",1.9989925245405877
+Matched endpoint on paths,max_degree,0.25,3,"[64, 128, 256, 512]",2.000092828185288
+Matched endpoint on paths,max_degree,0.25,4,"[128, 256, 512]",1.9999419928816022
+Matched endpoint on paths,max_degree,0.1,0,"[8, 16, 32, 64, 128, 256, 512]",2.0000796585097613
+Matched endpoint on paths,max_degree,0.1,1,"[16, 32, 64, 128, 256, 512]",2.000093913448978
+Matched endpoint on paths,max_degree,0.1,2,"[32, 64, 128, 256, 512]",2.000105653244091
+Matched endpoint on paths,max_degree,0.1,3,"[64, 128, 256, 512]",2.0000939159049396
+Matched endpoint on paths,max_degree,0.1,4,"[128, 256, 512]",1.9999413133042474

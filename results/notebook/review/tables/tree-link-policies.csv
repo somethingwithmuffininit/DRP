@@ -1,0 +1,4 @@
+Link,Trials,Mean steps saved,Slower trials
+Random,20,-117.8,15
+Fewest neighbors,20,-95.5,12
+Fiedler,20,16.0,0

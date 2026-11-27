@@ -1,0 +1,45 @@
+{
+  "seed": 42,
+  "epsilons": [0.25, 0.1],
+  "max_steps": 20000,
+  "stride": 50,
+  "all_starts_limit": 256,
+  "sdp_limit": 64,
+  "mcmc": {"draws": 2000, "replicates": 24},
+  "studies": [
+    {
+      "name": "Ordered paths",
+      "graph": {"family": "path", "sizes": [8, 16, 32, 64, 128]},
+      "methods": ["dhn", "max_degree", "metropolis", "fmmc"],
+      "policies": [{"policy": "none"}]
+    },
+    {
+      "name": "Cycle shortcuts",
+      "graph": {"family": "cycle", "sizes": [8, 15, 16, 31, 32, 63, 64, 127, 128]},
+      "methods": ["clockwise", "max_degree", "metropolis", "fmmc"],
+      "policies": [
+        {"policy": "none"},
+        {"policy": "halves", "candidates": "anchored"},
+        {"policy": "random", "candidates": "anchored", "samples": 4}
+      ]
+    },
+    {
+      "name": "Connectivity heuristics on trees",
+      "graph": {"family": "tree", "sizes": [8, 16, 32, 64, 128], "branching": 2},
+      "methods": ["max_degree"],
+      "policies": [
+        {"policy": "none"}, {"policy": "random", "samples": 8},
+        {"policy": "min_degree", "samples": 8}, {"policy": "fiedler"}
+      ]
+    },
+    {
+      "name": "Small-graph connectivity optimum",
+      "graph": {"family": "barbell", "sizes": [8, 12, 16, 24, 32]},
+      "methods": ["max_degree"],
+      "policies": [
+        {"policy": "none"}, {"policy": "random", "samples": 8},
+        {"policy": "min_degree", "samples": 8}, {"policy": "fiedler"}, {"policy": "optimal_connectivity"}
+      ]
+    }
+  ]
+}

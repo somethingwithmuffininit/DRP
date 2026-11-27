@@ -1,0 +1,56 @@
+{
+  "epsilons": [
+    0.25,
+    0.1,
+    0.05,
+    0.01
+  ],
+  "studies": [
+    {
+      "name": "Glasgow ring",
+      "graph": {
+        "dataset": "../data/glasgow.json"
+      },
+      "methods": [
+        "clockwise",
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "fixed",
+          "edge": [
+            5,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karate club",
+      "graph": {
+        "dataset": "../data/karate.json"
+      },
+      "methods": [
+        "max_degree",
+        "metropolis",
+        "fmmc"
+      ],
+      "policies": [
+        {
+          "policy": "none"
+        },
+        {
+          "policy": "random"
+        },
+        {
+          "policy": "fiedler"
+        }
+      ]
+    }
+  ]
+}

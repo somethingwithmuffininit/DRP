@@ -1,0 +1,26 @@
+{
+  "vertices": 15,
+  "edges": "glasgow.edges",
+  "edge_count": 15,
+  "order": "cycle",
+  "sha256": "30d6f583fd96b1d97041e367eef7f9d241f3f9c93baf998f00e10f6f5015483d",
+  "url": "https://www.spt.co.uk/travel-with-spt/subway/maps-stations/",
+  "mapping": [
+    "Buchanan Street",
+    "St Enoch",
+    "Bridge Street",
+    "West Street",
+    "Shields Road",
+    "Kinning Park",
+    "Cessnock",
+    "Ibrox",
+    "Govan",
+    "Partick",
+    "Kelvinhall",
+    "Hillhead",
+    "Kelvinbridge",
+    "St George's Cross",
+    "Cowcaddens"
+  ],
+  "preprocessing": "Station IDs follow the SPT Outer Circle clockwise from Buchanan Street. Each successive station pair is one undirected physical link."
+}

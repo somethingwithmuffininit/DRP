@@ -1,0 +1,913 @@
+study,vertices,method,policy,space,epsilon,scope,metric,realizations,available,minimum,median,maximum
+Glasgow consecutive stations,4,dhn,none,full,0.25,all,steps,4,4,4,4.0,4
+Glasgow consecutive stations,4,dhn,none,full,0.25,all,start_median,4,4,4.0,4.0,4.0
+Glasgow consecutive stations,4,dhn,none,full,0.25,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,dhn,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,dhn,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,dhn,none,full,0.25,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,4,dhn,none,full,0.1,all,steps,4,4,7,7.0,7
+Glasgow consecutive stations,4,dhn,none,full,0.1,all,start_median,4,4,7.0,7.0,7.0
+Glasgow consecutive stations,4,dhn,none,full,0.1,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,dhn,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,dhn,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,dhn,none,full,0.1,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,4,dhn,none,position,0.25,all,steps,4,4,4,4.0,4
+Glasgow consecutive stations,4,dhn,none,position,0.25,all,start_median,4,4,4.0,4.0,4.0
+Glasgow consecutive stations,4,dhn,none,position,0.25,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,dhn,none,position,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,dhn,none,position,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,dhn,none,position,0.25,all,vs_max_degree,4,4,0.5,0.5,0.5
+Glasgow consecutive stations,4,dhn,none,position,0.1,all,steps,4,4,7,7.0,7
+Glasgow consecutive stations,4,dhn,none,position,0.1,all,start_median,4,4,7.0,7.0,7.0
+Glasgow consecutive stations,4,dhn,none,position,0.1,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,dhn,none,position,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,dhn,none,position,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,dhn,none,position,0.1,all,vs_max_degree,4,4,0.8571428571428571,0.8571428571428571,0.8571428571428571
+Glasgow consecutive stations,4,max_degree,none,full,0.25,all,steps,4,4,2,2.0,2
+Glasgow consecutive stations,4,max_degree,none,full,0.25,all,start_median,4,4,2.0,2.0,2.0
+Glasgow consecutive stations,4,max_degree,none,full,0.25,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,max_degree,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,max_degree,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,max_degree,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,max_degree,none,full,0.1,all,steps,4,4,6,6.0,6
+Glasgow consecutive stations,4,max_degree,none,full,0.1,all,start_median,4,4,6.0,6.0,6.0
+Glasgow consecutive stations,4,max_degree,none,full,0.1,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,max_degree,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,max_degree,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,max_degree,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,metropolis,none,full,0.25,all,steps,4,4,2,2.0,2
+Glasgow consecutive stations,4,metropolis,none,full,0.25,all,start_median,4,4,2.0,2.0,2.0
+Glasgow consecutive stations,4,metropolis,none,full,0.25,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,metropolis,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,metropolis,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,metropolis,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,metropolis,none,full,0.1,all,steps,4,4,6,6.0,6
+Glasgow consecutive stations,4,metropolis,none,full,0.1,all,start_median,4,4,6.0,6.0,6.0
+Glasgow consecutive stations,4,metropolis,none,full,0.1,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,metropolis,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,metropolis,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,metropolis,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,fmmc,none,full,0.25,all,steps,4,4,2,2.0,2
+Glasgow consecutive stations,4,fmmc,none,full,0.25,all,start_median,4,4,2.0,2.0,2.0
+Glasgow consecutive stations,4,fmmc,none,full,0.25,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,fmmc,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,fmmc,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,fmmc,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,fmmc,none,full,0.1,all,steps,4,4,6,6.0,6
+Glasgow consecutive stations,4,fmmc,none,full,0.1,all,start_median,4,4,6.0,6.0,6.0
+Glasgow consecutive stations,4,fmmc,none,full,0.1,all,lambda2,4,4,0.585786437626905,0.585786437626905,0.585786437626905
+Glasgow consecutive stations,4,fmmc,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,4,fmmc,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,4,fmmc,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,dhn,none,full,0.25,all,steps,4,4,7,7.0,7
+Glasgow consecutive stations,6,dhn,none,full,0.25,all,start_median,4,4,7.0,7.0,7.0
+Glasgow consecutive stations,6,dhn,none,full,0.25,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,dhn,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,dhn,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,dhn,none,full,0.25,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,6,dhn,none,full,0.1,all,steps,4,4,12,12.0,12
+Glasgow consecutive stations,6,dhn,none,full,0.1,all,start_median,4,4,12.0,12.0,12.0
+Glasgow consecutive stations,6,dhn,none,full,0.1,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,dhn,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,dhn,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,dhn,none,full,0.1,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,6,dhn,none,position,0.25,all,steps,4,4,6,6.0,6
+Glasgow consecutive stations,6,dhn,none,position,0.25,all,start_median,4,4,6.0,6.0,6.0
+Glasgow consecutive stations,6,dhn,none,position,0.25,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,dhn,none,position,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,dhn,none,position,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,dhn,none,position,0.25,all,vs_max_degree,4,4,1.1666666666666667,1.1666666666666667,1.1666666666666667
+Glasgow consecutive stations,6,dhn,none,position,0.1,all,steps,4,4,11,11.0,11
+Glasgow consecutive stations,6,dhn,none,position,0.1,all,start_median,4,4,11.0,11.0,11.0
+Glasgow consecutive stations,6,dhn,none,position,0.1,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,dhn,none,position,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,dhn,none,position,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,dhn,none,position,0.1,all,vs_max_degree,4,4,1.1818181818181819,1.1818181818181819,1.1818181818181819
+Glasgow consecutive stations,6,max_degree,none,full,0.25,all,steps,4,4,7,7.0,7
+Glasgow consecutive stations,6,max_degree,none,full,0.25,all,start_median,4,4,7.0,7.0,7.0
+Glasgow consecutive stations,6,max_degree,none,full,0.25,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,max_degree,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,max_degree,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,max_degree,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,max_degree,none,full,0.1,all,steps,4,4,13,13.0,13
+Glasgow consecutive stations,6,max_degree,none,full,0.1,all,start_median,4,4,13.0,13.0,13.0
+Glasgow consecutive stations,6,max_degree,none,full,0.1,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,max_degree,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,max_degree,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,max_degree,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,metropolis,none,full,0.25,all,steps,4,4,7,7.0,7
+Glasgow consecutive stations,6,metropolis,none,full,0.25,all,start_median,4,4,7.0,7.0,7.0
+Glasgow consecutive stations,6,metropolis,none,full,0.25,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,metropolis,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,metropolis,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,metropolis,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,metropolis,none,full,0.1,all,steps,4,4,13,13.0,13
+Glasgow consecutive stations,6,metropolis,none,full,0.1,all,start_median,4,4,13.0,13.0,13.0
+Glasgow consecutive stations,6,metropolis,none,full,0.1,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,metropolis,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,metropolis,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,metropolis,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,fmmc,none,full,0.25,all,steps,4,4,7,7.0,7
+Glasgow consecutive stations,6,fmmc,none,full,0.25,all,start_median,4,4,7.0,7.0,7.0
+Glasgow consecutive stations,6,fmmc,none,full,0.25,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,fmmc,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,fmmc,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,fmmc,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,fmmc,none,full,0.1,all,steps,4,4,13,13.0,13
+Glasgow consecutive stations,6,fmmc,none,full,0.1,all,start_median,4,4,13.0,13.0,13.0
+Glasgow consecutive stations,6,fmmc,none,full,0.1,all,lambda2,4,4,0.26794919243112264,0.26794919243112264,0.26794919243112264
+Glasgow consecutive stations,6,fmmc,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,6,fmmc,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,6,fmmc,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,dhn,none,full,0.25,all,steps,4,4,10,10.0,10
+Glasgow consecutive stations,8,dhn,none,full,0.25,all,start_median,4,4,10.0,10.0,10.0
+Glasgow consecutive stations,8,dhn,none,full,0.25,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,dhn,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,dhn,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,dhn,none,full,0.25,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,8,dhn,none,full,0.1,all,steps,4,4,16,16.0,16
+Glasgow consecutive stations,8,dhn,none,full,0.1,all,start_median,4,4,16.0,16.0,16.0
+Glasgow consecutive stations,8,dhn,none,full,0.1,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,dhn,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,dhn,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,dhn,none,full,0.1,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,8,dhn,none,position,0.25,all,steps,4,4,10,10.0,10
+Glasgow consecutive stations,8,dhn,none,position,0.25,all,start_median,4,4,10.0,10.0,10.0
+Glasgow consecutive stations,8,dhn,none,position,0.25,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,dhn,none,position,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,dhn,none,position,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,dhn,none,position,0.25,all,vs_max_degree,4,4,1.2,1.2,1.2
+Glasgow consecutive stations,8,dhn,none,position,0.1,all,steps,4,4,16,16.0,16
+Glasgow consecutive stations,8,dhn,none,position,0.1,all,start_median,4,4,16.0,16.0,16.0
+Glasgow consecutive stations,8,dhn,none,position,0.1,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,dhn,none,position,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,dhn,none,position,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,dhn,none,position,0.1,all,vs_max_degree,4,4,1.5,1.5,1.5
+Glasgow consecutive stations,8,max_degree,none,full,0.25,all,steps,4,4,12,12.0,12
+Glasgow consecutive stations,8,max_degree,none,full,0.25,all,start_median,4,4,12.0,12.0,12.0
+Glasgow consecutive stations,8,max_degree,none,full,0.25,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,max_degree,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,max_degree,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,max_degree,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,max_degree,none,full,0.1,all,steps,4,4,24,24.0,24
+Glasgow consecutive stations,8,max_degree,none,full,0.1,all,start_median,4,4,24.0,24.0,24.0
+Glasgow consecutive stations,8,max_degree,none,full,0.1,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,max_degree,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,max_degree,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,max_degree,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,metropolis,none,full,0.25,all,steps,4,4,12,12.0,12
+Glasgow consecutive stations,8,metropolis,none,full,0.25,all,start_median,4,4,12.0,12.0,12.0
+Glasgow consecutive stations,8,metropolis,none,full,0.25,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,metropolis,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,metropolis,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,metropolis,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,metropolis,none,full,0.1,all,steps,4,4,24,24.0,24
+Glasgow consecutive stations,8,metropolis,none,full,0.1,all,start_median,4,4,24.0,24.0,24.0
+Glasgow consecutive stations,8,metropolis,none,full,0.1,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,metropolis,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,metropolis,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,metropolis,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,fmmc,none,full,0.25,all,steps,4,4,12,12.0,12
+Glasgow consecutive stations,8,fmmc,none,full,0.25,all,start_median,4,4,12.0,12.0,12.0
+Glasgow consecutive stations,8,fmmc,none,full,0.25,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,fmmc,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,fmmc,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,fmmc,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,fmmc,none,full,0.1,all,steps,4,4,24,24.0,24
+Glasgow consecutive stations,8,fmmc,none,full,0.1,all,start_median,4,4,24.0,24.0,24.0
+Glasgow consecutive stations,8,fmmc,none,full,0.1,all,lambda2,4,4,0.15224093497742644,0.15224093497742644,0.15224093497742644
+Glasgow consecutive stations,8,fmmc,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,8,fmmc,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,8,fmmc,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,dhn,none,full,0.25,all,steps,4,4,14,14.0,14
+Glasgow consecutive stations,10,dhn,none,full,0.25,all,start_median,4,4,14.0,14.0,14.0
+Glasgow consecutive stations,10,dhn,none,full,0.25,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,dhn,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,dhn,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,dhn,none,full,0.25,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,10,dhn,none,full,0.1,all,steps,4,4,21,21.0,21
+Glasgow consecutive stations,10,dhn,none,full,0.1,all,start_median,4,4,21.0,21.0,21.0
+Glasgow consecutive stations,10,dhn,none,full,0.1,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,dhn,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,dhn,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,dhn,none,full,0.1,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,10,dhn,none,position,0.25,all,steps,4,4,13,13.0,13
+Glasgow consecutive stations,10,dhn,none,position,0.25,all,start_median,4,4,13.0,13.0,13.0
+Glasgow consecutive stations,10,dhn,none,position,0.25,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,dhn,none,position,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,dhn,none,position,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,dhn,none,position,0.25,all,vs_max_degree,4,4,1.4615384615384615,1.4615384615384615,1.4615384615384615
+Glasgow consecutive stations,10,dhn,none,position,0.1,all,steps,4,4,20,20.0,20
+Glasgow consecutive stations,10,dhn,none,position,0.1,all,start_median,4,4,20.0,20.0,20.0
+Glasgow consecutive stations,10,dhn,none,position,0.1,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,dhn,none,position,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,dhn,none,position,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,dhn,none,position,0.1,all,vs_max_degree,4,4,1.85,1.85,1.85
+Glasgow consecutive stations,10,max_degree,none,full,0.25,all,steps,4,4,19,19.0,19
+Glasgow consecutive stations,10,max_degree,none,full,0.25,all,start_median,4,4,19.0,19.0,19.0
+Glasgow consecutive stations,10,max_degree,none,full,0.25,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,max_degree,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,max_degree,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,max_degree,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,max_degree,none,full,0.1,all,steps,4,4,37,37.0,37
+Glasgow consecutive stations,10,max_degree,none,full,0.1,all,start_median,4,4,37.0,37.0,37.0
+Glasgow consecutive stations,10,max_degree,none,full,0.1,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,max_degree,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,max_degree,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,max_degree,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,metropolis,none,full,0.25,all,steps,4,4,19,19.0,19
+Glasgow consecutive stations,10,metropolis,none,full,0.25,all,start_median,4,4,19.0,19.0,19.0
+Glasgow consecutive stations,10,metropolis,none,full,0.25,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,metropolis,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,metropolis,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,metropolis,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,metropolis,none,full,0.1,all,steps,4,4,37,37.0,37
+Glasgow consecutive stations,10,metropolis,none,full,0.1,all,start_median,4,4,37.0,37.0,37.0
+Glasgow consecutive stations,10,metropolis,none,full,0.1,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,metropolis,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,metropolis,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,metropolis,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,fmmc,none,full,0.25,all,steps,4,4,19,19.0,19
+Glasgow consecutive stations,10,fmmc,none,full,0.25,all,start_median,4,4,19.0,19.0,19.0
+Glasgow consecutive stations,10,fmmc,none,full,0.25,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,fmmc,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,fmmc,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,fmmc,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,fmmc,none,full,0.1,all,steps,4,4,37,37.0,37
+Glasgow consecutive stations,10,fmmc,none,full,0.1,all,start_median,4,4,37.0,37.0,37.0
+Glasgow consecutive stations,10,fmmc,none,full,0.1,all,lambda2,4,4,0.09788696740969273,0.09788696740969273,0.09788696740969273
+Glasgow consecutive stations,10,fmmc,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,10,fmmc,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,10,fmmc,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,dhn,none,full,0.25,all,steps,4,4,17,17.0,17
+Glasgow consecutive stations,12,dhn,none,full,0.25,all,start_median,4,4,17.0,17.0,17.0
+Glasgow consecutive stations,12,dhn,none,full,0.25,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,dhn,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,dhn,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,dhn,none,full,0.25,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,12,dhn,none,full,0.1,all,steps,4,4,26,26.0,26
+Glasgow consecutive stations,12,dhn,none,full,0.1,all,start_median,4,4,26.0,26.0,26.0
+Glasgow consecutive stations,12,dhn,none,full,0.1,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,dhn,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,dhn,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,dhn,none,full,0.1,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,12,dhn,none,position,0.25,all,steps,4,4,16,16.0,16
+Glasgow consecutive stations,12,dhn,none,position,0.25,all,start_median,4,4,16.0,16.0,16.0
+Glasgow consecutive stations,12,dhn,none,position,0.25,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,dhn,none,position,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,dhn,none,position,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,dhn,none,position,0.25,all,vs_max_degree,4,4,1.75,1.75,1.75
+Glasgow consecutive stations,12,dhn,none,position,0.1,all,steps,4,4,24,24.0,24
+Glasgow consecutive stations,12,dhn,none,position,0.1,all,start_median,4,4,24.0,24.0,24.0
+Glasgow consecutive stations,12,dhn,none,position,0.1,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,dhn,none,position,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,dhn,none,position,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,dhn,none,position,0.1,all,vs_max_degree,4,4,2.25,2.25,2.25
+Glasgow consecutive stations,12,max_degree,none,full,0.25,all,steps,4,4,28,28.0,28
+Glasgow consecutive stations,12,max_degree,none,full,0.25,all,start_median,4,4,28.0,28.0,28.0
+Glasgow consecutive stations,12,max_degree,none,full,0.25,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,max_degree,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,max_degree,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,max_degree,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,max_degree,none,full,0.1,all,steps,4,4,54,54.0,54
+Glasgow consecutive stations,12,max_degree,none,full,0.1,all,start_median,4,4,54.0,54.0,54.0
+Glasgow consecutive stations,12,max_degree,none,full,0.1,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,max_degree,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,max_degree,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,max_degree,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,metropolis,none,full,0.25,all,steps,4,4,28,28.0,28
+Glasgow consecutive stations,12,metropolis,none,full,0.25,all,start_median,4,4,28.0,28.0,28.0
+Glasgow consecutive stations,12,metropolis,none,full,0.25,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,metropolis,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,metropolis,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,metropolis,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,metropolis,none,full,0.1,all,steps,4,4,54,54.0,54
+Glasgow consecutive stations,12,metropolis,none,full,0.1,all,start_median,4,4,54.0,54.0,54.0
+Glasgow consecutive stations,12,metropolis,none,full,0.1,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,metropolis,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,metropolis,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,metropolis,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,fmmc,none,full,0.25,all,steps,4,4,28,28.0,28
+Glasgow consecutive stations,12,fmmc,none,full,0.25,all,start_median,4,4,28.0,28.0,28.0
+Glasgow consecutive stations,12,fmmc,none,full,0.25,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,fmmc,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,fmmc,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,fmmc,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,fmmc,none,full,0.1,all,steps,4,4,54,54.0,54
+Glasgow consecutive stations,12,fmmc,none,full,0.1,all,start_median,4,4,54.0,54.0,54.0
+Glasgow consecutive stations,12,fmmc,none,full,0.1,all,lambda2,4,4,0.06814834742186346,0.06814834742186346,0.06814834742186346
+Glasgow consecutive stations,12,fmmc,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,12,fmmc,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,12,fmmc,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,dhn,none,full,0.25,all,steps,4,4,20,20.0,20
+Glasgow consecutive stations,14,dhn,none,full,0.25,all,start_median,4,4,20.0,20.0,20.0
+Glasgow consecutive stations,14,dhn,none,full,0.25,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,dhn,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,dhn,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,dhn,none,full,0.25,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,14,dhn,none,full,0.1,all,steps,4,4,30,30.0,30
+Glasgow consecutive stations,14,dhn,none,full,0.1,all,start_median,4,4,30.0,30.0,30.0
+Glasgow consecutive stations,14,dhn,none,full,0.1,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,dhn,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,dhn,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,dhn,none,full,0.1,all,vs_max_degree,4,0,,,
+Glasgow consecutive stations,14,dhn,none,position,0.25,all,steps,4,4,19,19.0,19
+Glasgow consecutive stations,14,dhn,none,position,0.25,all,start_median,4,4,19.0,19.0,19.0
+Glasgow consecutive stations,14,dhn,none,position,0.25,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,dhn,none,position,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,dhn,none,position,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,dhn,none,position,0.25,all,vs_max_degree,4,4,1.9473684210526316,1.9473684210526316,1.9473684210526316
+Glasgow consecutive stations,14,dhn,none,position,0.1,all,steps,4,4,30,30.0,30
+Glasgow consecutive stations,14,dhn,none,position,0.1,all,start_median,4,4,30.0,30.0,30.0
+Glasgow consecutive stations,14,dhn,none,position,0.1,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,dhn,none,position,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,dhn,none,position,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,dhn,none,position,0.1,all,vs_max_degree,4,4,2.433333333333333,2.433333333333333,2.433333333333333
+Glasgow consecutive stations,14,max_degree,none,full,0.25,all,steps,4,4,37,37.0,37
+Glasgow consecutive stations,14,max_degree,none,full,0.25,all,start_median,4,4,37.0,37.0,37.0
+Glasgow consecutive stations,14,max_degree,none,full,0.25,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,max_degree,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,max_degree,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,max_degree,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,max_degree,none,full,0.1,all,steps,4,4,73,73.0,73
+Glasgow consecutive stations,14,max_degree,none,full,0.1,all,start_median,4,4,73.0,73.0,73.0
+Glasgow consecutive stations,14,max_degree,none,full,0.1,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,max_degree,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,max_degree,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,max_degree,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,metropolis,none,full,0.25,all,steps,4,4,37,37.0,37
+Glasgow consecutive stations,14,metropolis,none,full,0.25,all,start_median,4,4,37.0,37.0,37.0
+Glasgow consecutive stations,14,metropolis,none,full,0.25,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,metropolis,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,metropolis,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,metropolis,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,metropolis,none,full,0.1,all,steps,4,4,73,73.0,73
+Glasgow consecutive stations,14,metropolis,none,full,0.1,all,start_median,4,4,73.0,73.0,73.0
+Glasgow consecutive stations,14,metropolis,none,full,0.1,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,metropolis,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,metropolis,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,metropolis,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,fmmc,none,full,0.25,all,steps,4,4,37,37.0,37
+Glasgow consecutive stations,14,fmmc,none,full,0.25,all,start_median,4,4,37.0,37.0,37.0
+Glasgow consecutive stations,14,fmmc,none,full,0.25,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,fmmc,none,full,0.25,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,fmmc,none,full,0.25,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,fmmc,none,full,0.25,all,vs_max_degree,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,fmmc,none,full,0.1,all,steps,4,4,73,73.0,73
+Glasgow consecutive stations,14,fmmc,none,full,0.1,all,start_median,4,4,73.0,73.0,73.0
+Glasgow consecutive stations,14,fmmc,none,full,0.1,all,lambda2,4,4,0.05014417563635252,0.05014417563635252,0.05014417563635252
+Glasgow consecutive stations,14,fmmc,none,full,0.1,all,delta_lambda2,4,4,0.0,0.0,0.0
+Glasgow consecutive stations,14,fmmc,none,full,0.1,all,vs_unedited,4,4,1.0,1.0,1.0
+Glasgow consecutive stations,14,fmmc,none,full,0.1,all,vs_max_degree,4,4,1.0,1.0,1.0
+Western power grid nested subgraphs,12,max_degree,none,full,0.25,all,steps,6,6,19,25.0,37
+Western power grid nested subgraphs,12,max_degree,none,full,0.25,all,start_median,6,6,11.0,14.0,19.0
+Western power grid nested subgraphs,12,max_degree,none,full,0.25,all,lambda2,6,6,0.11721234481252815,0.18519385938900873,0.2698602190470515
+Western power grid nested subgraphs,12,max_degree,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,12,max_degree,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,max_degree,none,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,max_degree,none,full,0.1,all,steps,6,6,34,47.5,68
+Western power grid nested subgraphs,12,max_degree,none,full,0.1,all,start_median,6,6,22.0,32.0,49.0
+Western power grid nested subgraphs,12,max_degree,none,full,0.1,all,lambda2,6,6,0.11721234481252815,0.18519385938900873,0.2698602190470515
+Western power grid nested subgraphs,12,max_degree,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,12,max_degree,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,max_degree,none,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,metropolis,none,full,0.25,all,steps,6,6,16,21.5,28
+Western power grid nested subgraphs,12,metropolis,none,full,0.25,all,start_median,6,6,10.0,13.5,18.0
+Western power grid nested subgraphs,12,metropolis,none,full,0.25,all,lambda2,6,6,0.11721234481252815,0.18519385938900873,0.2698602190470515
+Western power grid nested subgraphs,12,metropolis,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,12,metropolis,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,metropolis,none,full,0.25,all,vs_max_degree,6,6,1.0,1.2113970588235294,1.4285714285714286
+Western power grid nested subgraphs,12,metropolis,none,full,0.1,all,steps,6,6,28,40.5,53
+Western power grid nested subgraphs,12,metropolis,none,full,0.1,all,start_median,6,6,20.0,29.25,42.0
+Western power grid nested subgraphs,12,metropolis,none,full,0.1,all,lambda2,6,6,0.11721234481252815,0.18519385938900873,0.2698602190470515
+Western power grid nested subgraphs,12,metropolis,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,12,metropolis,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,metropolis,none,full,0.1,all,vs_max_degree,6,6,1.0,1.2039170506912442,1.3783783783783783
+Western power grid nested subgraphs,12,fmmc,none,full,0.25,all,steps,6,6,14,16.5,21
+Western power grid nested subgraphs,12,fmmc,none,full,0.25,all,start_median,6,6,12.0,14.75,16.0
+Western power grid nested subgraphs,12,fmmc,none,full,0.25,all,lambda2,6,6,0.11721234481252815,0.18519385938900873,0.2698602190470515
+Western power grid nested subgraphs,12,fmmc,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,12,fmmc,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,fmmc,none,full,0.25,all,vs_max_degree,6,6,1.3333333333333333,1.3875,1.7647058823529411
+Western power grid nested subgraphs,12,fmmc,none,full,0.1,all,steps,6,6,25,29.5,39
+Western power grid nested subgraphs,12,fmmc,none,full,0.1,all,start_median,6,6,22.0,27.0,31.5
+Western power grid nested subgraphs,12,fmmc,none,full,0.1,all,lambda2,6,6,0.11721234481252815,0.18519385938900873,0.2698602190470515
+Western power grid nested subgraphs,12,fmmc,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,12,fmmc,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,fmmc,none,full,0.1,all,vs_max_degree,6,6,1.36,1.4448717948717948,1.7586206896551724
+Western power grid nested subgraphs,12,max_degree,random,full,0.25,all,steps,6,6,17.0,21.75,34.0
+Western power grid nested subgraphs,12,max_degree,random,full,0.25,all,start_median,6,6,10.5,11.25,19.0
+Western power grid nested subgraphs,12,max_degree,random,full,0.25,all,lambda2,6,6,0.1254174259345171,0.22206489497076415,0.3014075475411092
+Western power grid nested subgraphs,12,max_degree,random,full,0.25,all,delta_lambda2,6,6,0.007341675773785465,0.03964393680096454,0.05979682826175839
+Western power grid nested subgraphs,12,max_degree,random,full,0.25,all,vs_unedited,6,6,1.025,1.1072106261859582,1.2384615384615385
+Western power grid nested subgraphs,12,max_degree,random,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,max_degree,random,full,0.1,all,steps,6,6,30.5,39.0,63.5
+Western power grid nested subgraphs,12,max_degree,random,full,0.1,all,start_median,6,6,21.0,25.75,47.75
+Western power grid nested subgraphs,12,max_degree,random,full,0.1,all,lambda2,6,6,0.1254174259345171,0.22206489497076415,0.3014075475411092
+Western power grid nested subgraphs,12,max_degree,random,full,0.1,all,delta_lambda2,6,6,0.007341675773785465,0.03964393680096454,0.05979682826175839
+Western power grid nested subgraphs,12,max_degree,random,full,0.1,all,vs_unedited,6,6,1.0277777777777777,1.095662474940769,1.2777777777777777
+Western power grid nested subgraphs,12,max_degree,random,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,metropolis,random,full,0.25,all,steps,6,6,15.5,18.0,27.0
+Western power grid nested subgraphs,12,metropolis,random,full,0.25,all,start_median,6,6,8.5,10.125,16.75
+Western power grid nested subgraphs,12,metropolis,random,full,0.25,all,lambda2,6,6,0.1254174259345171,0.22206489497076415,0.3014075475411092
+Western power grid nested subgraphs,12,metropolis,random,full,0.25,all,delta_lambda2,6,6,0.007341675773785465,0.03964393680096454,0.05979682826175839
+Western power grid nested subgraphs,12,metropolis,random,full,0.25,all,vs_unedited,6,6,1.0333333333333332,1.0900735294117647,1.2982456140350878
+Western power grid nested subgraphs,12,metropolis,random,full,0.25,all,vs_max_degree,6,6,1.0277777777777777,1.1863709207459205,1.4285714285714286
+Western power grid nested subgraphs,12,metropolis,random,full,0.1,all,steps,6,6,27.0,34.0,50.5
+Western power grid nested subgraphs,12,metropolis,random,full,0.1,all,start_median,6,6,16.5,23.25,41.25
+Western power grid nested subgraphs,12,metropolis,random,full,0.1,all,lambda2,6,6,0.1254174259345171,0.22206489497076415,0.3014075475411092
+Western power grid nested subgraphs,12,metropolis,random,full,0.1,all,delta_lambda2,6,6,0.007341675773785465,0.03964393680096454,0.05979682826175839
+Western power grid nested subgraphs,12,metropolis,random,full,0.1,all,vs_unedited,6,6,1.0427586206896553,1.1200810185185186,1.317911714770798
+Western power grid nested subgraphs,12,metropolis,random,full,0.1,all,vs_max_degree,6,6,1.0142857142857142,1.1760914524072419,1.3888888888888888
+Western power grid nested subgraphs,12,fmmc,random,full,0.25,all,steps,6,6,12.0,16.5,20.0
+Western power grid nested subgraphs,12,fmmc,random,full,0.25,all,start_median,6,6,9.0,12.625,14.75
+Western power grid nested subgraphs,12,fmmc,random,full,0.25,all,lambda2,6,6,0.1254174259345171,0.22206489497076415,0.3014075475411092
+Western power grid nested subgraphs,12,fmmc,random,full,0.25,all,delta_lambda2,6,6,0.007341675773785465,0.03964393680096454,0.05979682826175839
+Western power grid nested subgraphs,12,fmmc,random,full,0.25,all,vs_unedited,6,6,0.9444444444444444,1.0666666666666669,1.2738970588235294
+Western power grid nested subgraphs,12,fmmc,random,full,0.25,all,vs_max_degree,6,6,1.143162393162393,1.4152056277056277,1.7261029411764706
+Western power grid nested subgraphs,12,fmmc,random,full,0.1,all,steps,6,6,21.0,28.75,39.0
+Western power grid nested subgraphs,12,fmmc,random,full,0.1,all,start_median,6,6,17.0,23.625,31.25
+Western power grid nested subgraphs,12,fmmc,random,full,0.1,all,lambda2,6,6,0.1254174259345171,0.22206489497076415,0.3014075475411092
+Western power grid nested subgraphs,12,fmmc,random,full,0.1,all,delta_lambda2,6,6,0.007341675773785465,0.03964393680096454,0.05979682826175839
+Western power grid nested subgraphs,12,fmmc,random,full,0.1,all,vs_unedited,6,6,1.0,1.071954665704666,1.2723214285714286
+Western power grid nested subgraphs,12,fmmc,random,full,0.1,all,vs_max_degree,6,6,1.2056451612903225,1.4420518207282913,1.7447089947089949
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.25,all,steps,6,6,18.0,22.5,30.0
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.25,all,start_median,6,6,10.25,10.5,13.5
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.25,all,lambda2,6,6,0.12628196272817105,0.233082820753189,0.27700759676803965
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.25,all,delta_lambda2,6,6,0.0021354847158152612,0.02522593499326367,0.09364243801254529
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.25,all,vs_unedited,6,6,1.0,1.0419117647058824,1.5629310344827587
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.1,all,steps,6,6,31.5,40.25,51.0
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.1,all,start_median,6,6,21.0,26.25,31.25
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.1,all,lambda2,6,6,0.12628196272817105,0.233082820753189,0.27700759676803965
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.1,all,delta_lambda2,6,6,0.0021354847158152612,0.02522593499326367,0.09364243801254529
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.1,all,vs_unedited,6,6,1.0,1.0724067963742558,1.598918918918919
+Western power grid nested subgraphs,12,max_degree,min_degree,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.25,all,steps,6,6,15.5,17.0,23.0
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.25,all,start_median,6,6,8.75,9.875,11.25
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.25,all,lambda2,6,6,0.12628196272817105,0.233082820753189,0.27700759676803965
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.25,all,delta_lambda2,6,6,0.0021354847158152612,0.02522593499326367,0.09364243801254529
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.25,all,vs_unedited,6,6,1.0,1.0393939393939393,1.611842105263158
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.25,all,vs_max_degree,6,6,1.128787878787879,1.2505848930481283,1.4285714285714286
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.1,all,steps,6,6,26.5,32.25,41.5
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.1,all,start_median,6,6,19.25,19.5,28.75
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.1,all,lambda2,6,6,0.12628196272817105,0.233082820753189,0.27700759676803965
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.1,all,delta_lambda2,6,6,0.0021354847158152612,0.02522593499326367,0.09364243801254529
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.1,all,vs_unedited,6,6,1.0,1.0760526315789474,1.6627450980392156
+Western power grid nested subgraphs,12,metropolis,min_degree,full,0.1,all,vs_max_degree,6,6,1.0892857142857144,1.2251414827391058,1.3783783783783783
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.25,all,steps,6,6,13.0,14.5,20.5
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.25,all,start_median,6,6,11.0,11.75,13.0
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.25,all,lambda2,6,6,0.12628196272817105,0.233082820753189,0.27700759676803965
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.25,all,delta_lambda2,6,6,0.0021354847158152612,0.02522593499326367,0.09364243801254529
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.25,all,vs_unedited,6,6,1.025,1.097985347985348,1.391025641025641
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.25,all,vs_max_degree,6,6,1.2316017316017316,1.4381868131868132,1.875
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.1,all,steps,6,6,23.0,26.25,36.5
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.1,all,start_median,6,6,20.5,22.75,26.25
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.1,all,lambda2,6,6,0.12628196272817105,0.233082820753189,0.27700759676803965
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.1,all,delta_lambda2,6,6,0.0021354847158152612,0.02522593499326367,0.09364243801254529
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.1,all,vs_unedited,6,6,1.0428571428571427,1.1107954545454546,1.389375
+Western power grid nested subgraphs,12,fmmc,min_degree,full,0.1,all,vs_max_degree,6,6,1.2996031746031746,1.445284090909091,1.8888888888888888
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.25,all,steps,6,6,12,14.0,19
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.25,all,start_median,6,6,8.0,8.75,11.0
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.25,all,lambda2,6,6,0.24329244416369997,0.3144096145136285,0.42201354645880645
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.25,all,delta_lambda2,6,6,0.0967711933649294,0.13797677081078136,0.16166031688431015
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.25,all,vs_unedited,6,6,1.4615384615384615,1.706140350877193,2.0
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.1,all,steps,6,6,23,24.0,34
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.1,all,start_median,6,6,16.0,17.5,23.0
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.1,all,lambda2,6,6,0.24329244416369997,0.3144096145136285,0.42201354645880645
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.1,all,delta_lambda2,6,6,0.0967711933649294,0.13797677081078136,0.16166031688431015
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.1,all,vs_unedited,6,6,1.4782608695652173,1.7292490118577075,2.260869565217391
+Western power grid nested subgraphs,12,max_degree,fiedler,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.25,all,steps,6,6,11,12.5,16
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.25,all,start_median,6,6,7.0,8.0,9.0
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.25,all,lambda2,6,6,0.24329244416369997,0.3144096145136285,0.42201354645880645
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.25,all,delta_lambda2,6,6,0.0967711933649294,0.13797677081078136,0.16166031688431015
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.25,all,vs_unedited,6,6,1.3333333333333333,1.6477272727272727,2.0
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.25,all,vs_max_degree,6,6,1.0769230769230769,1.1392045454545454,1.2727272727272727
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.1,all,steps,6,6,19,21.5,28
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.1,all,start_median,6,6,14.0,15.0,17.5
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.1,all,lambda2,6,6,0.24329244416369997,0.3144096145136285,0.42201354645880645
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.1,all,delta_lambda2,6,6,0.0967711933649294,0.13797677081078136,0.16166031688431015
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.1,all,vs_unedited,6,6,1.2727272727272727,1.7622180451127818,2.142857142857143
+Western power grid nested subgraphs,12,metropolis,fiedler,full,0.1,all,vs_max_degree,6,6,1.0454545454545454,1.1547619047619047,1.3157894736842106
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.25,all,steps,6,6,10,11.0,13
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.25,all,start_median,6,6,6.5,9.25,10.5
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.25,all,lambda2,6,6,0.24329244416369997,0.3144096145136285,0.42201354645880645
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.25,all,delta_lambda2,6,6,0.0967711933649294,0.13797677081078136,0.16166031688431015
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.25,all,vs_unedited,6,6,1.2727272727272727,1.4772727272727273,1.9090909090909092
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.25,all,vs_max_degree,6,6,1.0909090909090908,1.3363636363636364,1.4615384615384615
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.1,all,steps,6,6,17,19.0,23
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.1,all,start_median,6,6,14.0,16.75,19.0
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.1,all,lambda2,6,6,0.24329244416369997,0.3144096145136285,0.42201354645880645
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.1,all,delta_lambda2,6,6,0.0967711933649294,0.13797677081078136,0.16166031688431015
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.1,all,vs_unedited,6,6,1.3157894736842106,1.5541795665634675,2.0
+Western power grid nested subgraphs,12,fmmc,fiedler,full,0.1,all,vs_max_degree,6,6,1.2105263157894737,1.3405572755417956,1.5
+Western power grid nested subgraphs,24,max_degree,none,full,0.25,all,steps,6,6,39,54.0,84
+Western power grid nested subgraphs,24,max_degree,none,full,0.25,all,start_median,6,6,18.0,28.25,48.5
+Western power grid nested subgraphs,24,max_degree,none,full,0.25,all,lambda2,6,6,0.06217033852921786,0.11484965895119462,0.1777982594919946
+Western power grid nested subgraphs,24,max_degree,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,24,max_degree,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,max_degree,none,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,max_degree,none,full,0.1,all,steps,6,6,69,92.0,159
+Western power grid nested subgraphs,24,max_degree,none,full,0.1,all,start_median,6,6,38.0,61.5,111.5
+Western power grid nested subgraphs,24,max_degree,none,full,0.1,all,lambda2,6,6,0.06217033852921786,0.11484965895119462,0.1777982594919946
+Western power grid nested subgraphs,24,max_degree,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,24,max_degree,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,max_degree,none,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,metropolis,none,full,0.25,all,steps,6,6,31,43.0,67
+Western power grid nested subgraphs,24,metropolis,none,full,0.25,all,start_median,6,6,16.0,26.75,43.0
+Western power grid nested subgraphs,24,metropolis,none,full,0.25,all,lambda2,6,6,0.06217033852921786,0.11484965895119462,0.1777982594919946
+Western power grid nested subgraphs,24,metropolis,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,24,metropolis,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,metropolis,none,full,0.25,all,vs_max_degree,6,6,1.0714285714285714,1.281810035842294,1.6938775510204083
+Western power grid nested subgraphs,24,metropolis,none,full,0.1,all,steps,6,6,54,73.5,129
+Western power grid nested subgraphs,24,metropolis,none,full,0.1,all,start_median,6,6,33.0,54.0,94.5
+Western power grid nested subgraphs,24,metropolis,none,full,0.1,all,lambda2,6,6,0.06217033852921786,0.11484965895119462,0.1777982594919946
+Western power grid nested subgraphs,24,metropolis,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,24,metropolis,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,metropolis,none,full,0.1,all,vs_max_degree,6,6,1.0547945205479452,1.2927350427350426,1.568421052631579
+Western power grid nested subgraphs,24,fmmc,none,full,0.25,all,steps,6,6,25,39.0,44
+Western power grid nested subgraphs,24,fmmc,none,full,0.25,all,start_median,6,6,19.5,28.75,34.0
+Western power grid nested subgraphs,24,fmmc,none,full,0.25,all,lambda2,6,6,0.06217033852921786,0.11484965895119462,0.1777982594919946
+Western power grid nested subgraphs,24,fmmc,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,24,fmmc,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,fmmc,none,full,0.25,all,vs_max_degree,6,6,1.1538461538461537,1.5620512820512822,2.075
+Western power grid nested subgraphs,24,fmmc,none,full,0.1,all,steps,6,6,44,66.0,81
+Western power grid nested subgraphs,24,fmmc,none,full,0.1,all,start_median,6,6,37.0,53.25,67.0
+Western power grid nested subgraphs,24,fmmc,none,full,0.1,all,lambda2,6,6,0.06217033852921786,0.11484965895119462,0.1777982594919946
+Western power grid nested subgraphs,24,fmmc,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,24,fmmc,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,fmmc,none,full,0.1,all,vs_max_degree,6,6,1.1492537313432836,1.5711279461279462,2.1911764705882355
+Western power grid nested subgraphs,24,max_degree,random,full,0.25,all,steps,6,6,42.0,49.25,79.0
+Western power grid nested subgraphs,24,max_degree,random,full,0.25,all,start_median,6,6,16.0,25.625,32.0
+Western power grid nested subgraphs,24,max_degree,random,full,0.25,all,lambda2,6,6,0.09245656075776723,0.12639947744769725,0.18047012587914618
+Western power grid nested subgraphs,24,max_degree,random,full,0.25,all,delta_lambda2,6,6,0.0024423662927937836,0.01466096287578135,0.05609764474565642
+Western power grid nested subgraphs,24,max_degree,random,full,0.25,all,vs_unedited,6,6,0.9333333333333333,1.0395779383035755,1.600145137880987
+Western power grid nested subgraphs,24,max_degree,random,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,max_degree,random,full,0.1,all,steps,6,6,74.0,84.0,135.0
+Western power grid nested subgraphs,24,max_degree,random,full,0.1,all,start_median,6,6,38.75,55.625,64.75
+Western power grid nested subgraphs,24,max_degree,random,full,0.1,all,lambda2,6,6,0.09245656075776723,0.12639947744769725,0.18047012587914618
+Western power grid nested subgraphs,24,max_degree,random,full,0.1,all,delta_lambda2,6,6,0.0024423662927937836,0.01466096287578135,0.05609764474565642
+Western power grid nested subgraphs,24,max_degree,random,full,0.1,all,vs_unedited,6,6,0.9367088607594937,1.0484182397778663,1.796667517875383
+Western power grid nested subgraphs,24,max_degree,random,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,metropolis,random,full,0.25,all,steps,6,6,31.5,40.25,45.5
+Western power grid nested subgraphs,24,metropolis,random,full,0.25,all,start_median,6,6,14.75,22.25,27.75
+Western power grid nested subgraphs,24,metropolis,random,full,0.25,all,lambda2,6,6,0.09245656075776723,0.12639947744769725,0.18047012587914618
+Western power grid nested subgraphs,24,metropolis,random,full,0.25,all,delta_lambda2,6,6,0.0024423662927937836,0.01466096287578135,0.05609764474565642
+Western power grid nested subgraphs,24,metropolis,random,full,0.25,all,vs_unedited,6,6,0.984375,1.0608961282772296,1.558139534883721
+Western power grid nested subgraphs,24,metropolis,random,full,0.25,all,vs_max_degree,6,6,1.2234219269102988,1.3210389464925756,1.8329545454545455
+Western power grid nested subgraphs,24,metropolis,random,full,0.1,all,steps,6,6,55.0,69.25,82.5
+Western power grid nested subgraphs,24,metropolis,random,full,0.1,all,start_median,6,6,32.75,47.625,53.0
+Western power grid nested subgraphs,24,metropolis,random,full,0.1,all,lambda2,6,6,0.09245656075776723,0.12639947744769725,0.18047012587914618
+Western power grid nested subgraphs,24,metropolis,random,full,0.1,all,delta_lambda2,6,6,0.0024423662927937836,0.01466096287578135,0.05609764474565642
+Western power grid nested subgraphs,24,metropolis,random,full,0.1,all,vs_unedited,6,6,0.9821428571428572,1.0926822706483725,1.7316216216216216
+Western power grid nested subgraphs,24,metropolis,random,full,0.1,all,vs_max_degree,6,6,1.191629129129129,1.3221131822826737,1.7138651751545482
+Western power grid nested subgraphs,24,fmmc,random,full,0.25,all,steps,6,6,25.0,34.75,36.5
+Western power grid nested subgraphs,24,fmmc,random,full,0.25,all,start_median,6,6,19.5,24.625,28.0
+Western power grid nested subgraphs,24,fmmc,random,full,0.25,all,lambda2,6,6,0.09245656075776723,0.12639947744769725,0.18047012587914618
+Western power grid nested subgraphs,24,fmmc,random,full,0.25,all,delta_lambda2,6,6,0.0024423662927937836,0.01466096287578135,0.05609764474565642
+Western power grid nested subgraphs,24,fmmc,random,full,0.25,all,vs_unedited,6,6,1.0,1.1022808522808523,1.2756302521008402
+Western power grid nested subgraphs,24,fmmc,random,full,0.25,all,vs_max_degree,6,6,1.3454861111111112,1.6056704733175322,2.334562211981567
+Western power grid nested subgraphs,24,fmmc,random,full,0.1,all,steps,6,6,43.5,59.0,62.0
+Western power grid nested subgraphs,24,fmmc,random,full,0.1,all,start_median,6,6,36.0,47.0,52.75
+Western power grid nested subgraphs,24,fmmc,random,full,0.1,all,lambda2,6,6,0.09245656075776723,0.12639947744769725,0.18047012587914618
+Western power grid nested subgraphs,24,fmmc,random,full,0.1,all,delta_lambda2,6,6,0.0024423662927937836,0.01466096287578135,0.05609764474565642
+Western power grid nested subgraphs,24,fmmc,random,full,0.1,all,vs_unedited,6,6,1.0116279069767442,1.1083804271868258,1.4088021778584392
+Western power grid nested subgraphs,24,fmmc,random,full,0.1,all,vs_max_degree,6,6,1.3611111111111112,1.5794534412955465,2.309810951760104
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.25,all,steps,6,6,32.5,51.75,80.0
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.25,all,start_median,6,6,15.5,25.625,37.5
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.25,all,lambda2,6,6,0.06966426441920481,0.11817644146844938,0.17961653970672492
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.25,all,delta_lambda2,6,6,0.001574726897874773,0.006286382013310873,0.0219248941856372
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.25,all,vs_unedited,6,6,1.0,1.0597817879794622,1.3849431818181817
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.1,all,steps,6,6,57.5,89.5,143.0
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.1,all,start_median,6,6,35.75,57.125,85.75
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.1,all,lambda2,6,6,0.06966426441920481,0.11817644146844938,0.17961653970672492
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.1,all,delta_lambda2,6,6,0.001574726897874773,0.006286382013310873,0.0219248941856372
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.1,all,vs_unedited,6,6,1.0,1.0593180954113632,1.3416666666666668
+Western power grid nested subgraphs,24,max_degree,min_degree,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.25,all,steps,6,6,30.5,37.75,59.0
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.25,all,start_median,6,6,14.0,23.0,29.0
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.25,all,lambda2,6,6,0.06966426441920481,0.11817644146844938,0.17961653970672492
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.25,all,delta_lambda2,6,6,0.001574726897874773,0.006286382013310873,0.0219248941856372
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.25,all,vs_unedited,6,6,1.0,1.0962057010785824,1.3774193548387097
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.25,all,vs_max_degree,6,6,1.032795698924731,1.326918549905838,1.7219387755102042
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.1,all,steps,6,6,53.5,66.0,107.0
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.1,all,start_median,6,6,31.75,48.375,65.0
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.1,all,lambda2,6,6,0.06966426441920481,0.11817644146844938,0.17961653970672492
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.1,all,delta_lambda2,6,6,0.001574726897874773,0.006286382013310873,0.0219248941856372
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.1,all,vs_unedited,6,6,1.0,1.11114435950421,1.3179895901106051
+Western power grid nested subgraphs,24,metropolis,min_degree,full,0.1,all,vs_max_degree,6,6,1.0361093038386469,1.3188115312798505,1.6323117921385744
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.25,all,steps,6,6,25.0,31.25,41.5
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.25,all,start_median,6,6,18.25,23.375,30.0
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.25,all,lambda2,6,6,0.06966426441920481,0.11817644146844938,0.17961653970672492
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.25,all,delta_lambda2,6,6,0.001574726897874773,0.006286382013310873,0.0219248941856372
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.25,all,vs_unedited,6,6,1.0,1.1256415396952688,1.4
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.25,all,vs_max_degree,6,6,1.1378205128205128,1.5976923076923077,2.278879310344828
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.1,all,steps,6,6,44.0,54.25,77.0
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.1,all,start_median,6,6,36.25,43.25,58.5
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.1,all,lambda2,6,6,0.06966426441920481,0.11817644146844938,0.17961653970672492
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.1,all,delta_lambda2,6,6,0.001574726897874773,0.006286382013310873,0.0219248941856372
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.1,all,vs_unedited,6,6,1.0,1.096728742955158,1.4055944055944056
+Western power grid nested subgraphs,24,fmmc,min_degree,full,0.1,all,vs_max_degree,6,6,1.2019230769230769,1.6117594609397887,2.3155882352941175
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.25,all,steps,6,6,27,41.5,53
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.25,all,start_median,6,6,17.0,25.5,34.5
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.25,all,lambda2,6,6,0.11095499005480618,0.16221592726142603,0.25196922743702044
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.25,all,delta_lambda2,6,6,0.006527209378913323,0.058934437615646165,0.11454856031437993
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.25,all,vs_unedited,6,6,1.22,1.4742710120068612,1.7407407407407407
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.1,all,steps,6,6,49,70.0,92
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.1,all,start_median,6,6,31.0,52.25,66.5
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.1,all,lambda2,6,6,0.11095499005480618,0.16221592726142603,0.25196922743702044
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.1,all,delta_lambda2,6,6,0.006527209378913323,0.058934437615646165,0.11454856031437993
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.1,all,vs_unedited,6,6,1.1647058823529413,1.5563218390804598,1.7346938775510203
+Western power grid nested subgraphs,24,max_degree,fiedler,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.25,all,steps,6,6,21,29.0,43
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.25,all,start_median,6,6,14.0,18.25,28.0
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.25,all,lambda2,6,6,0.11095499005480618,0.16221592726142603,0.25196922743702044
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.25,all,delta_lambda2,6,6,0.006527209378913323,0.058934437615646165,0.11454856031437993
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.25,all,vs_unedited,6,6,1.0731707317073171,1.5171650055370987,1.75
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.25,all,vs_max_degree,6,6,1.1,1.2591362126245849,1.7857142857142858
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.1,all,steps,6,6,37,50.5,74
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.1,all,start_median,6,6,27.0,36.25,56.0
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.1,all,lambda2,6,6,0.11095499005480618,0.16221592726142603,0.25196922743702044
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.1,all,delta_lambda2,6,6,0.006527209378913323,0.058934437615646165,0.11454856031437993
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.1,all,vs_unedited,6,6,1.0571428571428572,1.6016216216216215,1.8627450980392157
+Western power grid nested subgraphs,24,metropolis,fiedler,full,0.1,all,vs_max_degree,6,6,1.1,1.2837837837837838,1.7058823529411764
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.25,all,steps,6,6,18,25.5,37
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.25,all,start_median,6,6,14.0,19.0,31.0
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.25,all,lambda2,6,6,0.11095499005480618,0.16221592726142603,0.25196922743702044
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.25,all,delta_lambda2,6,6,0.006527209378913323,0.058934437615646165,0.11454856031437993
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.25,all,vs_unedited,6,6,1.054054054054054,1.4596774193548387,1.6
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.25,all,vs_max_degree,6,6,1.2692307692307692,1.4812312312312312,2.0
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.1,all,steps,6,6,31,42.5,63
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.1,all,start_median,6,6,25.5,35.75,57.0
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.1,all,lambda2,6,6,0.11095499005480618,0.16221592726142603,0.25196922743702044
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.1,all,delta_lambda2,6,6,0.006527209378913323,0.058934437615646165,0.11454856031437993
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.1,all,vs_unedited,6,6,1.0317460317460319,1.5255145797598628,1.6875
+Western power grid nested subgraphs,24,fmmc,fiedler,full,0.1,all,vs_max_degree,6,6,1.25,1.5720766129032258,2.1219512195121952
+Western power grid nested subgraphs,48,max_degree,none,full,0.25,all,steps,6,6,113,156.0,226
+Western power grid nested subgraphs,48,max_degree,none,full,0.25,all,start_median,6,6,35.0,68.25,139.0
+Western power grid nested subgraphs,48,max_degree,none,full,0.25,all,lambda2,6,6,0.030300801757394642,0.05297716599341833,0.06814682924849114
+Western power grid nested subgraphs,48,max_degree,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,48,max_degree,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,max_degree,none,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,max_degree,none,full,0.1,all,steps,6,6,206,262.0,405
+Western power grid nested subgraphs,48,max_degree,none,full,0.1,all,start_median,6,6,78.5,160.25,317.0
+Western power grid nested subgraphs,48,max_degree,none,full,0.1,all,lambda2,6,6,0.030300801757394642,0.05297716599341833,0.06814682924849114
+Western power grid nested subgraphs,48,max_degree,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,48,max_degree,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,max_degree,none,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,metropolis,none,full,0.25,all,steps,6,6,78,107.0,147
+Western power grid nested subgraphs,48,metropolis,none,full,0.25,all,start_median,6,6,26.5,59.75,76.5
+Western power grid nested subgraphs,48,metropolis,none,full,0.25,all,lambda2,6,6,0.030300801757394642,0.05297716599341833,0.06814682924849114
+Western power grid nested subgraphs,48,metropolis,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,48,metropolis,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,metropolis,none,full,0.25,all,vs_max_degree,6,6,1.3725490196078431,1.471607142857143,1.5374149659863945
+Western power grid nested subgraphs,48,metropolis,none,full,0.1,all,steps,6,6,145,189.5,269
+Western power grid nested subgraphs,48,metropolis,none,full,0.1,all,start_median,6,6,68.5,142.75,178.5
+Western power grid nested subgraphs,48,metropolis,none,full,0.1,all,lambda2,6,6,0.030300801757394642,0.05297716599341833,0.06814682924849114
+Western power grid nested subgraphs,48,metropolis,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,48,metropolis,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,metropolis,none,full,0.1,all,vs_max_degree,6,6,1.3020833333333333,1.4269223676931588,1.6846846846846846
+Western power grid nested subgraphs,48,fmmc,none,full,0.25,all,steps,6,6,54,89.0,99
+Western power grid nested subgraphs,48,fmmc,none,full,0.25,all,start_median,6,6,32.5,64.25,69.0
+Western power grid nested subgraphs,48,fmmc,none,full,0.25,all,lambda2,6,6,0.030300801757394642,0.05297716599341833,0.06814682924849114
+Western power grid nested subgraphs,48,fmmc,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,48,fmmc,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,fmmc,none,full,0.25,all,vs_max_degree,6,6,1.443298969072165,2.110126083530339,2.462686567164179
+Western power grid nested subgraphs,48,fmmc,none,full,0.1,all,steps,6,6,97,152.5,177
+Western power grid nested subgraphs,48,fmmc,none,full,0.1,all,start_median,6,6,65.5,122.0,151.0
+Western power grid nested subgraphs,48,fmmc,none,full,0.1,all,lambda2,6,6,0.030300801757394642,0.05297716599341833,0.06814682924849114
+Western power grid nested subgraphs,48,fmmc,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,48,fmmc,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,fmmc,none,full,0.1,all,vs_max_degree,6,6,1.5151515151515151,2.1683645458427376,2.392857142857143
+Western power grid nested subgraphs,48,max_degree,random,full,0.25,all,steps,6,6,98.0,136.5,198.0
+Western power grid nested subgraphs,48,max_degree,random,full,0.25,all,start_median,6,6,34.75,59.875,127.25
+Western power grid nested subgraphs,48,max_degree,random,full,0.25,all,lambda2,6,6,0.03436492814167547,0.057594421440148175,0.08538478123965279
+Western power grid nested subgraphs,48,max_degree,random,full,0.25,all,delta_lambda2,6,6,0.0005442749359787988,0.010191248565922547,0.017237951991161654
+Western power grid nested subgraphs,48,max_degree,random,full,0.25,all,vs_unedited,6,6,1.0101267760120398,1.1310956327590849,1.3418367346938775
+Western power grid nested subgraphs,48,max_degree,random,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,max_degree,random,full,0.1,all,steps,6,6,175.5,238.25,354.0
+Western power grid nested subgraphs,48,max_degree,random,full,0.1,all,start_median,6,6,76.75,142.875,271.25
+Western power grid nested subgraphs,48,max_degree,random,full,0.1,all,lambda2,6,6,0.03436492814167547,0.057594421440148175,0.08538478123965279
+Western power grid nested subgraphs,48,max_degree,random,full,0.1,all,delta_lambda2,6,6,0.0005442749359787988,0.010191248565922547,0.017237951991161654
+Western power grid nested subgraphs,48,max_degree,random,full,0.1,all,vs_unedited,6,6,1.012,1.1647781618279756,1.3404900031078422
+Western power grid nested subgraphs,48,max_degree,random,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,metropolis,random,full,0.25,all,steps,6,6,70.5,95.5,130.5
+Western power grid nested subgraphs,48,metropolis,random,full,0.25,all,start_median,6,6,26.5,51.75,71.0
+Western power grid nested subgraphs,48,metropolis,random,full,0.25,all,lambda2,6,6,0.03436492814167547,0.057594421440148175,0.08538478123965279
+Western power grid nested subgraphs,48,metropolis,random,full,0.25,all,delta_lambda2,6,6,0.0005442749359787988,0.010191248565922547,0.017237951991161654
+Western power grid nested subgraphs,48,metropolis,random,full,0.25,all,vs_unedited,6,6,1.0038461538461538,1.1079110621521338,1.236842105263158
+Western power grid nested subgraphs,48,metropolis,random,full,0.25,all,vs_max_degree,6,6,1.3801520608243298,1.4714540816326531,1.54143475572047
+Western power grid nested subgraphs,48,metropolis,random,full,0.1,all,steps,6,6,126.5,172.5,221.0
+Western power grid nested subgraphs,48,metropolis,random,full,0.1,all,start_median,6,6,65.5,115.375,161.25
+Western power grid nested subgraphs,48,metropolis,random,full,0.1,all,lambda2,6,6,0.03436492814167547,0.057594421440148175,0.08538478123965279
+Western power grid nested subgraphs,48,metropolis,random,full,0.1,all,delta_lambda2,6,6,0.0005442749359787988,0.010191248565922547,0.017237951991161654
+Western power grid nested subgraphs,48,metropolis,random,full,0.1,all,vs_unedited,6,6,1.0046071626021256,1.1674195795339413,1.2947643397065363
+Western power grid nested subgraphs,48,metropolis,random,full,0.1,all,vs_max_degree,6,6,1.3149305555555555,1.4342853367413753,1.6012449577164856
+Western power grid nested subgraphs,48,fmmc,random,full,0.25,all,steps,6,6,52.0,81.25,91.0
+Western power grid nested subgraphs,48,fmmc,random,full,0.25,all,start_median,6,6,33.5,57.75,64.5
+Western power grid nested subgraphs,48,fmmc,random,full,0.25,all,lambda2,6,6,0.03436492814167547,0.057594421440148175,0.08538478123965279
+Western power grid nested subgraphs,48,fmmc,random,full,0.25,all,delta_lambda2,6,6,0.0005442749359787988,0.010191248565922547,0.017237951991161654
+Western power grid nested subgraphs,48,fmmc,random,full,0.25,all,vs_unedited,6,6,1.0060240963855422,1.0860377358490565,1.2405698559171119
+Western power grid nested subgraphs,48,fmmc,random,full,0.25,all,vs_max_degree,6,6,1.5492148292051158,2.063686732554657,2.3127386324192987
+Western power grid nested subgraphs,48,fmmc,random,full,0.1,all,steps,6,6,89.5,137.5,161.0
+Western power grid nested subgraphs,48,fmmc,random,full,0.1,all,start_median,6,6,65.25,109.875,132.5
+Western power grid nested subgraphs,48,fmmc,random,full,0.1,all,lambda2,6,6,0.03436492814167547,0.057594421440148175,0.08538478123965279
+Western power grid nested subgraphs,48,fmmc,random,full,0.1,all,delta_lambda2,6,6,0.0005442749359787988,0.010191248565922547,0.017237951991161654
+Western power grid nested subgraphs,48,fmmc,random,full,0.1,all,vs_unedited,6,6,1.0035971223021583,1.1013729197046707,1.231818181818182
+Western power grid nested subgraphs,48,fmmc,random,full,0.1,all,vs_max_degree,6,6,1.5542424242424242,2.077253644301971,2.2936507936507935
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.25,all,steps,6,6,99.0,150.5,191.5
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.25,all,start_median,6,6,34.25,62.75,111.75
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.25,all,lambda2,6,6,0.03502890944821438,0.05591523227029398,0.08016310723179151
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.25,all,delta_lambda2,6,6,0.0005930018553389135,0.004124682069103195,0.012016277983300384
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.25,all,vs_unedited,6,6,1.0356735301414042,1.0549513985706591,1.2528086565752128
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.1,all,steps,6,6,178.5,255.75,342.5
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.1,all,start_median,6,6,76.0,149.75,245.25
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.1,all,lambda2,6,6,0.03502890944821438,0.05591523227029398,0.08016310723179151
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.1,all,delta_lambda2,6,6,0.0005930018553389135,0.004124682069103195,0.012016277983300384
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.1,all,vs_unedited,6,6,1.0098658616289564,1.0860218970947826,1.3041266002005782
+Western power grid nested subgraphs,48,max_degree,min_degree,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.25,all,steps,6,6,67.5,101.75,130.0
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.25,all,start_median,6,6,26.25,52.875,64.25
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.25,all,lambda2,6,6,0.03502890944821438,0.05591523227029398,0.08016310723179151
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.25,all,delta_lambda2,6,6,0.0005930018553389135,0.004124682069103195,0.012016277983300384
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.25,all,vs_unedited,6,6,1.0076923076923077,1.0561714973696539,1.2136273209549073
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.25,all,vs_max_degree,6,6,1.4050797182054136,1.513895136913229,1.5377199155524277
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.1,all,steps,6,6,120.0,179.5,220.5
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.1,all,start_median,6,6,65.0,125.5,143.75
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.1,all,lambda2,6,6,0.03502890944821438,0.05591523227029398,0.08016310723179151
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.1,all,delta_lambda2,6,6,0.0005930018553389135,0.004124682069103195,0.012016277983300384
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.1,all,vs_unedited,6,6,1.009090909090909,1.076143470514014,1.2693567026194146
+Western power grid nested subgraphs,48,metropolis,min_degree,full,0.1,all,vs_max_degree,6,6,1.383986992901614,1.4977484120897488,1.5363636363636364
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.25,all,steps,6,6,50.0,83.75,88.5
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.25,all,start_median,6,6,32.5,59.25,64.75
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.25,all,lambda2,6,6,0.03502890944821438,0.05591523227029398,0.08016310723179151
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.25,all,delta_lambda2,6,6,0.0005930018553389135,0.004124682069103195,0.012016277983300384
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.25,all,vs_unedited,6,6,1.0153846153846153,1.0719557829810638,1.1689189189189189
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.25,all,vs_max_degree,6,6,1.7115272938443669,2.0718760406260404,2.465816080885893
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.1,all,steps,6,6,87.0,141.0,161.5
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.1,all,start_median,6,6,65.5,114.125,138.0
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.1,all,lambda2,6,6,0.03502890944821438,0.05591523227029398,0.08016310723179151
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.1,all,delta_lambda2,6,6,0.0005930018553389135,0.004124682069103195,0.012016277983300384
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.1,all,vs_unedited,6,6,1.0185185185185186,1.0854543727549046,1.2023809523809523
+Western power grid nested subgraphs,48,fmmc,min_degree,full,0.1,all,vs_max_degree,6,6,1.7927272727272727,2.0835167868999775,2.4010922330097086
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.25,all,steps,6,6,80,107.5,171
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.25,all,start_median,6,6,34.0,60.0,107.5
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.25,all,lambda2,6,6,0.03985018904496305,0.07933690961093073,0.11887927208167964
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.25,all,delta_lambda2,6,6,0.009549387287568406,0.025478806491999538,0.056282152801058125
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.25,all,vs_unedited,6,6,1.1695906432748537,1.3852941176470588,2.0625
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.1,all,steps,6,6,133,180.0,304
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.1,all,start_median,6,6,69.0,120.5,220.5
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.1,all,lambda2,6,6,0.03985018904496305,0.07933690961093073,0.11887927208167964
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.1,all,delta_lambda2,6,6,0.009549387287568406,0.025478806491999538,0.056282152801058125
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.1,all,vs_unedited,6,6,1.230263157894737,1.4652365057396401,2.0150375939849625
+Western power grid nested subgraphs,48,max_degree,fiedler,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.25,all,steps,6,6,49,70.0,115
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.25,all,start_median,6,6,25.0,44.5,62.0
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.25,all,lambda2,6,6,0.03985018904496305,0.07933690961093073,0.11887927208167964
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.25,all,delta_lambda2,6,6,0.009549387287568406,0.025478806491999538,0.056282152801058125
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.25,all,vs_unedited,6,6,1.1391304347826088,1.546279491833031,2.2857142857142856
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.25,all,vs_max_degree,6,6,1.2988505747126438,1.561940565699964,1.7586206896551724
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.1,all,steps,6,6,82,126.0,201
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.1,all,start_median,6,6,47.5,85.75,125.0
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.1,all,lambda2,6,6,0.03985018904496305,0.07933690961093073,0.11887927208167964
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.1,all,delta_lambda2,6,6,0.009549387287568406,0.025478806491999538,0.056282152801058125
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.1,all,vs_unedited,6,6,1.1044776119402986,1.6522114019070804,2.2804878048780486
+Western power grid nested subgraphs,48,metropolis,fiedler,full,0.1,all,vs_max_degree,6,6,1.2808219178082192,1.5744164699711514,1.7086092715231789
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.25,all,steps,6,6,36,56.5,81
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.25,all,start_median,6,6,26.0,43.0,58.0
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.25,all,lambda2,6,6,0.03985018904496305,0.07933690961093073,0.11887927208167964
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.25,all,delta_lambda2,6,6,0.009549387287568406,0.025478806491999538,0.056282152801058125
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.25,all,vs_unedited,6,6,1.1604938271604939,1.4433369447453954,1.8611111111111112
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.25,all,vs_max_degree,6,6,1.7384615384615385,2.067460317460317,2.2222222222222223
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.1,all,steps,6,6,61,97.0,141
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.1,all,start_median,6,6,48.0,81.0,117.0
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.1,all,lambda2,6,6,0.03985018904496305,0.07933690961093073,0.11887927208167964
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.1,all,delta_lambda2,6,6,0.009549387287568406,0.025478806491999538,0.056282152801058125
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.1,all,vs_unedited,6,6,1.198581560283688,1.4936974789915967,1.8360655737704918
+Western power grid nested subgraphs,48,fmmc,fiedler,full,0.1,all,vs_max_degree,6,6,1.7,2.107776089159068,2.180327868852459
+Western power grid nested subgraphs,96,max_degree,none,full,0.25,all,steps,6,6,289,395.0,584
+Western power grid nested subgraphs,96,max_degree,none,full,0.25,all,start_median,6,6,103.0,207.25,250.5
+Western power grid nested subgraphs,96,max_degree,none,full,0.25,all,lambda2,6,6,0.014619453987328744,0.02913755266800238,0.04455940130642937
+Western power grid nested subgraphs,96,max_degree,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,96,max_degree,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,max_degree,none,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,max_degree,none,full,0.1,all,steps,6,6,518,663.0,1009
+Western power grid nested subgraphs,96,max_degree,none,full,0.1,all,start_median,6,6,253.0,427.0,526.0
+Western power grid nested subgraphs,96,max_degree,none,full,0.1,all,lambda2,6,6,0.014619453987328744,0.02913755266800238,0.04455940130642937
+Western power grid nested subgraphs,96,max_degree,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,96,max_degree,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,max_degree,none,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,metropolis,none,full,0.25,all,steps,6,6,161,251.5,410
+Western power grid nested subgraphs,96,metropolis,none,full,0.25,all,start_median,6,6,56.5,138.25,189.0
+Western power grid nested subgraphs,96,metropolis,none,full,0.25,all,lambda2,6,6,0.014619453987328744,0.02913755266800238,0.04455940130642937
+Western power grid nested subgraphs,96,metropolis,none,full,0.25,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,96,metropolis,none,full,0.25,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,metropolis,none,full,0.25,all,vs_max_degree,6,6,1.3836477987421383,1.496948485179919,1.795031055900621
+Western power grid nested subgraphs,96,metropolis,none,full,0.1,all,steps,6,6,288,441.0,717
+Western power grid nested subgraphs,96,metropolis,none,full,0.1,all,start_median,6,6,152.0,294.25,401.0
+Western power grid nested subgraphs,96,metropolis,none,full,0.1,all,lambda2,6,6,0.014619453987328744,0.02913755266800238,0.04455940130642937
+Western power grid nested subgraphs,96,metropolis,none,full,0.1,all,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,96,metropolis,none,full,0.1,all,vs_unedited,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,metropolis,none,full,0.1,all,vs_max_degree,6,6,1.355716878402904,1.4440354275237475,1.7986111111111112
+Western power grid nested subgraphs,96,fmmc,none,,,,steps,6,0,,,
+Western power grid nested subgraphs,96,fmmc,none,,,,start_median,6,0,,,
+Western power grid nested subgraphs,96,fmmc,none,,,,lambda2,6,6,0.014619453987328744,0.02913755266800238,0.04455940130642937
+Western power grid nested subgraphs,96,fmmc,none,,,,delta_lambda2,6,6,0.0,0.0,0.0
+Western power grid nested subgraphs,96,fmmc,none,,,,vs_unedited,6,0,,,
+Western power grid nested subgraphs,96,fmmc,none,,,,vs_max_degree,6,0,,,
+Western power grid nested subgraphs,96,max_degree,random,full,0.25,all,steps,6,6,259.0,385.25,577.5
+Western power grid nested subgraphs,96,max_degree,random,full,0.25,all,start_median,6,6,94.75,173.625,234.0
+Western power grid nested subgraphs,96,max_degree,random,full,0.25,all,lambda2,6,6,0.015685145811187733,0.031224251977768902,0.05188137468768833
+Western power grid nested subgraphs,96,max_degree,random,full,0.25,all,delta_lambda2,6,6,0.00038448470447290627,0.0018167709035025988,0.007321973381258961
+Western power grid nested subgraphs,96,max_degree,random,full,0.25,all,vs_unedited,6,6,1.0,1.011412758967051,1.128089582830962
+Western power grid nested subgraphs,96,max_degree,random,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,max_degree,random,full,0.1,all,steps,6,6,459.0,641.0,987.0
+Western power grid nested subgraphs,96,max_degree,random,full,0.1,all,start_median,6,6,233.0,362.625,515.0
+Western power grid nested subgraphs,96,max_degree,random,full,0.1,all,lambda2,6,6,0.015685145811187733,0.031224251977768902,0.05188137468768833
+Western power grid nested subgraphs,96,max_degree,random,full,0.1,all,delta_lambda2,6,6,0.00038448470447290627,0.0018167709035025988,0.007321973381258961
+Western power grid nested subgraphs,96,max_degree,random,full,0.1,all,vs_unedited,6,6,1.0067550017709403,1.0213811218727682,1.1420926981809099
+Western power grid nested subgraphs,96,max_degree,random,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,metropolis,random,full,0.25,all,steps,6,6,140.5,236.5,405.5
+Western power grid nested subgraphs,96,metropolis,random,full,0.25,all,start_median,6,6,53.0,113.75,181.25
+Western power grid nested subgraphs,96,metropolis,random,full,0.25,all,lambda2,6,6,0.015685145811187733,0.031224251977768902,0.05188137468768833
+Western power grid nested subgraphs,96,metropolis,random,full,0.25,all,delta_lambda2,6,6,0.00038448470447290627,0.0018167709035025988,0.007321973381258961
+Western power grid nested subgraphs,96,metropolis,random,full,0.25,all,vs_unedited,6,6,1.0,1.0353274189110526,1.1619324018902815
+Western power grid nested subgraphs,96,metropolis,random,full,0.25,all,vs_max_degree,6,6,1.3843704832220007,1.5260966939609428,1.846311896445449
+Western power grid nested subgraphs,96,metropolis,random,full,0.1,all,steps,6,6,246.0,417.5,700.5
+Western power grid nested subgraphs,96,metropolis,random,full,0.1,all,start_median,6,6,128.0,251.25,389.5
+Western power grid nested subgraphs,96,metropolis,random,full,0.1,all,lambda2,6,6,0.015685145811187733,0.031224251977768902,0.05188137468768833
+Western power grid nested subgraphs,96,metropolis,random,full,0.1,all,delta_lambda2,6,6,0.00038448470447290627,0.0018167709035025988,0.007321973381258961
+Western power grid nested subgraphs,96,metropolis,random,full,0.1,all,vs_unedited,6,6,1.0027305845338632,1.0559760940515566,1.1896230375283352
+Western power grid nested subgraphs,96,metropolis,random,full,0.1,all,vs_max_degree,6,6,1.357597284318596,1.5004605129735662,1.8676097724792209
+Western power grid nested subgraphs,96,fmmc,random,,,,steps,6,0,,,
+Western power grid nested subgraphs,96,fmmc,random,,,,start_median,6,0,,,
+Western power grid nested subgraphs,96,fmmc,random,,,,lambda2,6,6,0.015685145811187733,0.031224251977768902,0.05188137468768833
+Western power grid nested subgraphs,96,fmmc,random,,,,delta_lambda2,6,6,0.00038448470447290627,0.0018167709035025988,0.007321973381258961
+Western power grid nested subgraphs,96,fmmc,random,,,,vs_unedited,6,0,,,
+Western power grid nested subgraphs,96,fmmc,random,,,,vs_max_degree,6,0,,,
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.25,all,steps,6,6,268.5,357.0,529.0
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.25,all,start_median,6,6,99.0,186.875,242.0
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.25,all,lambda2,6,6,0.015949731868845365,0.033069491291176006,0.04890678273782147
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.25,all,delta_lambda2,6,6,0.00026913312956824455,0.0017229906672422447,0.005748173793379392
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.25,all,vs_unedited,6,6,1.0032467532467533,1.0850173900762,1.172974663747263
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.1,all,steps,6,6,477.0,609.5,922.0
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.1,all,start_median,6,6,244.75,390.125,491.25
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.1,all,lambda2,6,6,0.015949731868845365,0.033069491291176006,0.04890678273782147
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.1,all,delta_lambda2,6,6,0.00026913312956824455,0.0017229906672422447,0.005748173793379392
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.1,all,vs_unedited,6,6,1.0047223312051932,1.0880714356133505,1.1561096512183469
+Western power grid nested subgraphs,96,max_degree,min_degree,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.25,all,steps,6,6,146.0,246.0,371.0
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.25,all,start_median,6,6,54.5,114.0,183.5
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.25,all,lambda2,6,6,0.015949731868845365,0.033069491291176006,0.04890678273782147
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.25,all,delta_lambda2,6,6,0.00026913312956824455,0.0017229906672422447,0.005748173793379392
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.25,all,vs_unedited,6,6,1.0022522522522523,1.0717295862348903,1.1601893503504552
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.25,all,vs_max_degree,6,6,1.3480992202965298,1.436662903228552,1.8397475008213262
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.1,all,steps,6,6,257.5,432.25,653.0
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.1,all,start_median,6,6,130.0,245.5,383.75
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.1,all,lambda2,6,6,0.015949731868845365,0.033069491291176006,0.04890678273782147
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.1,all,delta_lambda2,6,6,0.00026913312956824455,0.0017229906672422447,0.005748173793379392
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.1,all,vs_unedited,6,6,1.006420143695208,1.0697979591703386,1.1643277699595351
+Western power grid nested subgraphs,96,metropolis,min_degree,full,0.1,all,vs_max_degree,6,6,1.2922343641013718,1.4164329021124482,1.8522247360482655
+Western power grid nested subgraphs,96,fmmc,min_degree,,,,steps,6,0,,,
+Western power grid nested subgraphs,96,fmmc,min_degree,,,,start_median,6,0,,,
+Western power grid nested subgraphs,96,fmmc,min_degree,,,,lambda2,6,6,0.015949731868845365,0.033069491291176006,0.04890678273782147
+Western power grid nested subgraphs,96,fmmc,min_degree,,,,delta_lambda2,6,6,0.00026913312956824455,0.0017229906672422447,0.005748173793379392
+Western power grid nested subgraphs,96,fmmc,min_degree,,,,vs_unedited,6,0,,,
+Western power grid nested subgraphs,96,fmmc,min_degree,,,,vs_max_degree,6,0,,,
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.25,all,steps,6,6,190,270.0,355
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.25,all,start_median,6,6,98.0,174.25,241.0
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.25,all,lambda2,6,6,0.023473612552946447,0.03903211753951604,0.06723668307827355
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.25,all,delta_lambda2,6,6,0.008203147639566123,0.01136320630514072,0.024049593951057956
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.25,all,vs_unedited,6,6,1.2297872340425533,1.4430296170533863,1.739463601532567
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.25,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.1,all,steps,6,6,333,467.0,589
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.1,all,start_median,6,6,235.0,340.75,489.5
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.1,all,lambda2,6,6,0.023473612552946447,0.03903211753951604,0.06723668307827355
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.1,all,delta_lambda2,6,6,0.008203147639566123,0.01136320630514072,0.024049593951057956
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.1,all,vs_unedited,6,6,1.188911704312115,1.442764316040178,1.7270693512304252
+Western power grid nested subgraphs,96,max_degree,fiedler,full,0.1,all,vs_max_degree,6,6,1.0,1.0,1.0
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.25,all,steps,6,6,123,200.5,234
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.25,all,start_median,6,6,53.0,106.5,161.5
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.25,all,lambda2,6,6,0.023473612552946447,0.03903211753951604,0.06723668307827355
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.25,all,delta_lambda2,6,6,0.008203147639566123,0.01136320630514072,0.024049593951057956
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.25,all,vs_unedited,6,6,1.0045045045045045,1.4616100845151125,1.8468468468468469
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.25,all,vs_max_degree,6,6,1.2567567567567568,1.5107250107250108,1.910569105691057
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.1,all,steps,6,6,210,348.0,399
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.1,all,start_median,6,6,118.0,223.5,304.0
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.1,all,lambda2,6,6,0.023473612552946447,0.03903211753951604,0.06723668307827355
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.1,all,delta_lambda2,6,6,0.008203147639566123,0.01136320630514072,0.024049593951057956
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.1,all,vs_unedited,6,6,1.0103359173126616,1.4833564493758669,1.8290816326530612
+Western power grid nested subgraphs,96,metropolis,fiedler,full,0.1,all,vs_max_degree,6,6,1.2583979328165376,1.4635427063233304,1.9666666666666666
+Western power grid nested subgraphs,96,fmmc,fiedler,,,,steps,6,0,,,
+Western power grid nested subgraphs,96,fmmc,fiedler,,,,start_median,6,0,,,
+Western power grid nested subgraphs,96,fmmc,fiedler,,,,lambda2,6,6,0.023473612552946447,0.03903211753951604,0.06723668307827355
+Western power grid nested subgraphs,96,fmmc,fiedler,,,,delta_lambda2,6,6,0.008203147639566123,0.01136320630514072,0.024049593951057956
+Western power grid nested subgraphs,96,fmmc,fiedler,,,,vs_unedited,6,0,,,
+Western power grid nested subgraphs,96,fmmc,fiedler,,,,vs_max_degree,6,0,,,

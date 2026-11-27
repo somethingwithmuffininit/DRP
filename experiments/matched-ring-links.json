@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "epsilons": [0.25],
+  "max_steps": 1000,
+  "studies": [
+    {
+      "name": "Matched one-link policies on a clockwise ring",
+      "graph": {"family": "cycle", "sizes": [32]},
+      "methods": ["clockwise"],
+      "policies": [
+        {"policy": "none"},
+        {"policy": "all", "candidates": "anchored"},
+        {"policy": "halves", "candidates": "anchored"},
+        {"policy": "random", "candidates": "anchored", "samples": 20},
+        {"policy": "min_degree", "candidates": "anchored", "samples": 20},
+        {"policy": "fiedler", "candidates": "anchored"},
+        {"policy": "optimal_connectivity", "candidates": "anchored"}
+      ]
+    }
+  ]
+}
